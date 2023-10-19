@@ -1,0 +1,75 @@
+DARK ROAST TRAGEDY -- CREDITS
+-----------------------------
+Thanks to all the folks of the FE hacking community that created hacks and other assets. It's not possible without you all.
+
+----
+PANDAN & FRIENDS
+----
+Project Chief - Pandan
+Technical Chief / Co-Lead - Pikmin1211
+Eventing - Pandan, Pikmin1211
+Mapping - Pandan
+Writing / Storyboarding - Pandan, Xilirite, Kyrads
+Tech Support - Pikmin1211, Vennobennu, LegendOfLoog
+Art - Pandan, L95, Levin, Laurent_Lacroix, Autonima, MournfulRelic
+Palettes - Pandan, Pikmin1211
+Music - Pandan, Pikmin1211
+Playtest & Design - Pandan, Pikmin1211, Kyrads, LegendOfLoog, knabepicer, WarPath, TDAWS, Levin, Xilirite, Pushwall, L95, Autonima, Vlak, Laurent_Lacroix, Stan, Scraiza, Zanryu, hypergammaspaces, Snakey1, MournfulRelic
+
+----
+COMMUNITY RESOURCES
+----
+FEBuilder & Various Fixes - 7743
+Music - 7743, RandomWizard, A_Reliable_Chair, SurfingKyogre, Dolkar, Sme
+ModularMiniMugBox - ZaneAvernathy
+Map Sprites - AstraLunaSol, TheBlindArcher, Subbastian, Alusq, Team SALVAGED, Flasuban, Author_Pendragon, BatimaTheBat, DerTheVaporeon, Nuramon, CanDy, Deranger, Skitty, knabepicer, StreetHero
+Animations - AstraLunaSol, TheBlindArcher, Temp, Alusq, Team SALVAGED, Maiser6, Ukulele, SD9K, Black Mage, Wan, BatimaTheBat, DerTheVaporeon, Iscaneus, Nuramon, Pushwall, JeyTheCount, BlackMage, Pikmin1211, MeatOfJustice, Skitty, eCut, knabepicer, Eldritch
+Mugs - NickT, Capybara
+Icons - GabrielKnight, LordGlenn, Ereskigal
+Map Palettes - RandomWizard, N426
+Tilesets - N426, ZoramineFae, hypergammaspaces, WAve
+16_tracks_12_sounds - Agro, Brendor
+Anti-Huffman - Hextator
+01command_hack - Hextator
+48command_hack - Hextator
+Fixed Weak Promoted Enemies - Gryz
+Enable Faster Movement by Holding A - Gryz
+Adjust Mode Coefficient Gain - Vennobennu
+Magic Sword Rework - Sme
+Show battle stats w/ anims off - Tequila
+Narrowfont - Scraiza
+Staves - Teraspark, Colorz
+Str/Mag split - Mohka, Kirb
+AutoNewLine - Zeta
+Updated EXP Formula - Pikmin1211
+
+
+----
+INSPIRATIONS / Special Thanks
+----
+Listing some key inspirations here that helped shape direction of the project across its story, map objectives, item design, mechanic design, sound direction, and visual direction. While I take inspiration from many sources, I wanted to list those that have been major touchstones throughout development.
+
+Hacks --
+
+Road to Ruin - PrimeFusion
+Dream of Five - AstraLunaSol
+Souls of the Forest - Scraiza
+The Last Promise - Blazer
+Sword of Heaven & Earth - 38%
+FE7x - BwdYeti
+Call of the Armor - Team Distant Roads (& other projects) // I know crediting myself is weird but I only made 2/20ths of it.
+Iron Emblem - MournfulRelic // Relic did all of the work here, I only made a few maps
+
+And the vanilla FE I borrowed most heavily from --
+
+Fire Emblem Shadow Dragon // Numbers, unit design, cast design
+Fire Emblem Gaiden // Shrines, statboost design, the vibes
+Fire Emblem Thracia 776 // Fatigue
+Fire Emblem Fates // EXP, class design, map ideas
+
+And lastly, other media --
+
+Romance of the Three Kingdoms // Plot elements
+Tales of Symphonia // the vibes
+Super Mario Sunshine // Location design
+Shenmue // Interlude stuff

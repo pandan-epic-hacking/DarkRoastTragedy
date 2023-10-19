@@ -1,0 +1,145 @@
+## OlmosName
+Olmos[X]
+
+## OlmosDesc
+Lord of House Poblano.[N]
+Seeks to prove his worth.[X]
+
+## FlorName
+Flor[X]
+
+## FlorDesc
+A grizzled battle veteran.[N]
+Shrewd and practical.[N]
+Olmos' sworn guardian.[X]
+
+## GuadalupeName
+Guadalupe[X]
+
+## GuadalupeDesc
+Knight of House Poblano.[N]
+Boisterous and self-assured.[X]
+
+## SosimoName
+Sosimo[X]
+
+## SosimoDesc
+A young mercenary.[N]
+Pragmatic thinker.[X]
+
+## BastioName
+Bastio[X]
+
+## BastioDesc
+A young mercenary.[N]
+Leads with his heart.[X]
+
+## ZapateraName
+Zapatera[X]
+
+## ZapateraDesc
+Knight of House Poblano.[N]
+Yearns to be strong.[N]
+Likes making shoes.[X]
+
+## NaranjaName
+Naranja[X]
+
+## NaranjaDesc
+Plucky village girl.[N]
+Never says no to a challenge.[X]
+
+## ArbolitoName
+Arbolito[X]
+
+## ArbolitoDesc
+A village boy with unshakeable[N]
+ambition. Loyal.[X]
+
+## GoonName
+Goon[X]
+
+## GoonDesc
+Brutes who prefer to use[N]
+their weapons over words.[X]
+
+## HachaName
+Hacha[X]
+
+## HachaDesc
+Pirate who only can trust[N]
+the axe in his hands.[X]
+
+## DomingoName
+Domingo[X]
+
+## DomingoDesc
+Shrine keeper from Poblano.[N]
+A devoted and dutiful storyteller,[N]
+protector, and historian.[X]
+
+## LuzName
+Luz[X]
+
+## LuzDesc
+Young shrine keeper from Poblano.[N]
+Prefers to be left alone.[X]
+
+## PerezName
+Perez[X]
+
+## PerezDesc
+Pirate from Poblano.[N]
+Talks himself up to overcome[N]
+his deep sense of inferiority.[X]
+
+## RecaudoName
+Recaudo[X]
+
+## RecaudoDesc
+A local legend immortalized[N]
+in this shrine.[X]
+
+## RoblesName
+Robles[X]
+
+## RoblesDesc
+Knight of Poblano.[N]
+Affable, yet possesses[N]
+a certain intensity.[X]
+
+## ErlantzName
+Erlantz[X]
+
+## ErlantzDesc
+A horse breeder and[N]
+veterinarian. Calm.[X]
+
+## UsoaName
+Usoa[X]
+
+## UsoaDesc
+Knight of Poblano.[N]
+Energetic and ambitious.[X]
+
+## ItzelName
+Itzel[X]
+
+## ItzelDesc
+Knight of Poblano.[N]
+A rookie who wants to make[N]
+her family proud.[X]
+
+## AjoName
+Ajo[X]
+
+## AjoDesc
+Pirate serving Fideos.[N]
+Thinks himself wise.[X]
+
+## CebollaName
+Cebolla[X]
+
+## CebollaDesc
+Pirate serving Fideos.
+Thinks herself cunning.[X]

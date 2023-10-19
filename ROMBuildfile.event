@@ -1,0 +1,51 @@
+#ifdef _FE8_
+    #include "EAstdlib.event"
+    #include "CustomDefinitions.event"
+//PROTECT $25224
+    ORG FreeSpace
+
+    #include "repointedTextTable.event"
+
+#include "Definitions/_MasterDefinitionInstaller.event"
+#include "Tables/_MasterDefinitionInstaller.event"
+
+    //Text first for Text ID definitions
+    #include "Text/InstallTextData.event"
+	#include "Text/_TextTable/TextTable.event"
+	#include "Text/_MasterTextInstaller.event"
+    MESSAGE Used text space ends at currentOffset
+
+    //CSV tables
+    #include "Tables/_MasterTableInstaller.event"
+	#include "Tables/_Repoint/MoreRepointers.event"
+	#include "Tables/EA_Files/ManualTableInstaller.event"
+    MESSAGE Used table space ends at currentOffset
+
+    //Engine Hacks
+    #include "EngineHacks/_MasterHackInstaller.event"
+	#include "EngineHacks/_MasterWizardryInstaller.event"
+    MESSAGE Used hax space ends at currentOffset
+
+	#ifdef USE_TEST_MAP
+    //Events
+    #include "Events/_MasterEventInstaller.event"
+
+    //Maps
+	#include "Maps/tmx/_MasterMapInstaller.event"
+	#include "Maps/Tileset_and_Animations_Installer.event"
+    //#endif // USE_TEST_MAP
+
+	//Graphics
+	#include "Spritans/_MasterSpritansInstaller.event"
+
+	//Sounds
+	#include "Sound/_SoundTable/SoundTable.event"
+	#include "Sound/_Instrument/Instrument.event"
+	#include "Sound/_MasterSoundInstaller.event"
+	
+	ASSERT (FreeSpaceEnd - currentOffset) // So that you don't overwrite vanilla tables if using default freespace
+	
+    MESSAGE Used free space ends at currentOffset
+#else
+    ERROR "You are not assembling FE8 events!"
+#endif

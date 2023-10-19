@@ -1,0 +1,320 @@
+## Chapter_01_Name 
+Ch1. Brewing Conflict[X]
+
+## Chapter_01_Objective 
+Seize the inn.[X]
+
+## Chapter_01_Goal_Window 
+Seize[X]
+
+## Chapter_01_Opening_1 
+[ConversationText]
+[OpenLeft][LoadOlmos][OpenRight][LoadFlor]
+Lord Olmos, we've almost arrived at Port Olivera. How are you holding up?
+[OpenLeft]
+Flor, for the fourth time today, I am fine. Swordplay was part of my curriculum in the academy, you know. I am not the tender youth you once cared for. I've returned from my schooling a man, a proper lord.
+[OpenRight]
+Sassy as always. Good.
+[OpenLeft]
+Strong-willed suits me better, I'd say. Saying I am "correct" works, too.
+[OpenRight]
+This is your first errand in some time, Lord Olmos. As your retainer and protector charged by Baron Colome, I'm going to keep asking. 
+[OpenLeft]
+Father trusted me with this task. I still think it's ridiculous how many mercenaries he hired for it. We're just riding a few days to scout the port before he departs. He's chartered a boat and is having council in the north with the other Lords of the island. This is standard fare.
+[OpenRight]
+Failure to execute starts with failure to prepare. You'll certainly be thankful to have their support if anything goes wrong. You're still young, Lord Olmos. Don't assume you know it all. Have an open mind and keep that ego in check. You may see your self a "proper lord", but you're still made of earthly flesh. When you're inevitably wrong about something, it'll sting less if you keep your fallibility in mind.
+[OpenLeft]
+I'm glad to see you're even more sagacious than I remember. 
+[OpenRight]
+I'd say experienced suits me best. Saying I am "correct" works, too.
+[OpenLeft]
+Hmph. I swear my father made you my retainer simply so you could irk me. Are the others coming back soon? They've been gone for quite a while. I don't understand why you sent all of our foot soldiers ahead. I would've sent you first. You have a horse. You'd be faster.
+[OpenRight]
+My primary objective is to protect you. Like you said, this is a simple task. Let Guadalupe and the boys handle the scouting today. In fact, I see them approaching now. Look to the south.
+[OpenLeft]
+Oh, I can see them now. Huh? It's just Guadalupe and Zapatera[Beat] 
+[OpenRight]
+[Beat] Trouble.
+[X]
+
+## Chapter_01_Opening_2 
+[ConversationText]
+[FarRight][LoadFlor][Left][LoadGuadalupe][FarLeft][LoadZapatera][Right][LoadOlmos]
+Guadalupe! What's happening?
+[OpenLeft]
+Lord Olmos, Lady Flor. There's a disturbance at the port.
+[OpenFarLeft]
+It's pirates, milord!
+[OpenLeft]
+We left the others to scout and assess their strength. We rushed back as quickly as we could. Your orders?
+[OpenRight]
+Father asked us to ensure Port Olivera was safe. We can't allow pirates to delay his journey to the council. We must rout the pirates. Quickly, let's ride.
+[ClearSpeech][MoveFarFarLeft][Clear]
+[OpenFarRight]
+Lord Olmos! Gah, the lad has a deathwish.
+[OpenLeft]
+Lady Flor?
+[OpenFarRight]
+Let's make sure he doesn't get himself killed. Guadalupe, Zapatera, with me.
+[X]
+
+## Chapter_01_Opening_3 
+[ConversationText]
+[Right][LoadSosimo][FarRight][LoadBastio][Left][LoadOlmos]
+Huff... puff...
+[OpenRight]
+Oy! Lord Olmos!
+[OpenLeft]
+Sosimo. Bastio. What's the situation?
+[OpenFarRight]
+It's bad, Chief.
+[OpenRight]
+Bastio, it's "Lord".
+[OpenFarRight]
+Right. It's bad, Lord.
+[OpenRight]
+... Lord Olmos, there's about a dozen pirates about. Their leader has taken over the inn.
+[OpenFarLeft][LoadFlor]
+Then we should prepare to take it back.
+[OpenLeft]
+Agreed. Let's charge in and strike as one. With me!
+[OpenFarLeft]
+Hold it, Lord Olmos. There may only be a dozen pirates, but you only have one life. Don't squander it here. Take a look around you. There are pirates everywhere. Most of the villagers boarded up their homes, but some haven't. We should split up to protect the villages.
+[OpenLeft]
+Splitting our forces will only slow us down. We should move together and strike swiftly and decisively. I'm sure once we take out their commander, the rest will disperse before they can do much damage.
+[OpenFarLeft]
+Hmph, there are merits to both strategies. Just remember your duties as a Lord. We await your command.
+[OpenLeft]
+Right[Beat] Flor, please tell everyone to get into positions. Follow me!
+[X]
+
+## Chapter_01_Opening_4 
+[ConversationText]
+[OpenMidRight][LoadHacha]
+So, the younger son of Baron Colome has graced us with his presence? The cub thinks himself a lion,
+[X]
+
+## Chapter_01_Opening_5 
+[ConversationText]
+[OpenLeft][LoadOlmos][OpenFarLeft][LoadFlor]
+Lord Olmos, remember, if we lose you, it's trouble for all of us. Let Guadalupe and I weaken the enemies at full strength so they're easier for you and the boys to take on.
+[OpenLeft]
+[Beat] Right. Let's make our way for the inn.
+[OpenRight]
+
+[X]
+
+## Chapter_01_Allies_Appear
+[ConversationText]
+[MidRight][LoadArbolito][MidLeft][LoadNaranja]
+Arbolito, look! It's Lord Olmos. This is our chance. If we do a good job against these goons, maybe we'll get steady work. Maybe even become soldiers. My mom would be proud...
+[OpenMidRight]
+Naranja, don't just jump in. Fighting recklessly will only get us killed.
+[OpenMidLeft]
+Yeah, but if we twiddle our thumbs, we'll watch our homes burn to the ground. You've been studying tactics a bit at night, right? You're always talking about leaving the fields behind and enlisting as a soldier, aren't you? Well, here's your chance!
+[OpenMidRight]
+This isn't how I pictured it, but you're right. No sense in waiting. Let's go.
+[X]
+
+## Chapter_01_Top_Left_House
+[ConversationText]
+[MidRight][LoadCurrent][MidLeft][LoadOldMan]
+You're here with Lord Olmos? We've gathered some funds. Please use it as you see fit.
+[X]
+
+## Chapter_01_Bottom_Right_House
+[ConversationText]
+[MidRight][LoadCurrent][MidLeft][LoadLittleGirl]
+My mother says that the pirates have been causing a ruckus for a while. They like to steal coffee beans and sell them overseas[Beat] I don't get why all of you adults go so crazy for it. It isn't even good unless you pour a lot of sugar in it. Anyway, if you're fighting the pirates, this may be helpful.
+[X]
+
+## Chapter_01_Ending_1
+[ConversationText]
+[MidLeft][LoadOlmos][MidRight][LoadOldMan]
+Thank you for your help[N]
+today, Lord Olmos.[AN]
+Truth be told, I did not expect[N]
+to be saved by you.[A]
+[MidLeft]
+[Beat]It's no problem, Mayor.[AN]
+I just completed my studies in[N]
+La Paz a few months ago.[AN]
+I'm just glad I was able to[N]
+help out.[A]
+[MidRight]
+Ho! Glad to see your book learning[N]
+has served you well, milord.[AN]
+The people of Port Oliveira[N]
+are indebted to House Poblano.[AN]
+For many generations your family[N]
+has helped the people of this region.[AN]
+It once again appears that House Poblano[N]
+lives up to its most noble reputation.[AN]
+[MidLeft]
+You are most kind.[AN]
+My troops are inspecting the damage[N]
+and making preparations for my father.[AN]
+He plans to depart from here today[N]
+for business in the north.[A]
+[MidRight]
+Oh! Baron Colome is arriving today?[N]
+This is certainly an honor.[AN]
+He usually sends word ahead of time.[N]
+Ah, pardon my musings.[AN]
+Let me prepare coffee for the occasion.[A]
+[MidLeft]
+I'm sure he would appreciate that.[N]
+Thank you.[A]
+[MidRight][Clear][MidRight][LoadFlor]
+Lord Olmos.[N]
+The preparations are complete.[AN]
+We secured the town and the boat[N]
+is in readying to disembark.[A]
+[MidLeft]
+[Beat]Thank you, Flor.[A]
+[MidRight]
+Hm, what's the matter, Lord Olmos?[N]
+You look bothered by something.[A]
+[MidLeft]
+We just killed a dozen or so pirates.[N]
+Ne'er-do-wells they may be,[AN]
+but many looked to be people of our realm.[N]
+Why would they do this?[A]
+[MidRight]
+[Beat]Not everyone is born the second[N]
+son of a baron, Lord Olmos.[AN]
+There are many who are born only to[N]
+die in the same rags they were birthed in.[AN]
+It is only through virtuous action[N]
+that one can rise above their station.[AN]
+Many would choose to blame the world[N]
+for their misfortunes.[AN]
+And thus, they turn to banditry, piratry,[N]
+and all other forms of skullduggery.[A]
+[MidLeft]
+[Beat]I see.[AN]
+I suppose then it is my duty as a Lord[N]
+to support the people as best I can.[AN]
+Unfortunate as it may be to strike down[N]
+those who resort to thievery,[AN]
+I must protect those who wish to live earnestly.[N]
+That is my duty, is it not?[A]
+[FarFarLeft]
+One of your many duties, Lord Olmos.[A][X]
+
+## Chapter_01_Ending_2
+[FarLeft][LoadFlor][Left][LoadOlmos][Right][LoadColome]
+I see you've completed your task.[N]
+Well done, my son.[A]
+[Left]
+Father, well met.[N]
+I'm pleased to see you arrived safely.[A]
+[Right]
+Well met.[AN]
+Lady Flor, I trust Lord Olmos[N]
+was not too great a burden on you?[A]
+[FarLeft]
+Not at all, Baron Colome.[N]
+He held his own in battle.[A]
+[Right]
+I'm glad to hear it.[A]
+[FarRight][LoadOldMan]
+Ah, Baron Colome![N]
+It is an honor to see you.[AN]
+I've prepared coffee cultivated by[N]
+your fine house for us today.[AN]
+Tell me, how do you all take yours?[A]
+[Right]
+Black. Thank you.[A]
+[FarLeft]
+I'll take it black as well.[A]
+[Left]
+I'll[Beat] take cream and sugar.[A]
+[Right]
+[Beat][A]
+[FarRight]
+Very well![N]
+I will see it done.[A]
+[FarRight][Clear]
+[Right]
+Lady Flor, can you finish making arrangements[N]
+for the ship?[AN]
+I wish to speak with my son before[N]
+I depart on my journey.[A]
+[FarLeft]
+I will inform you once they[N]
+are ready to ship off.[A][X]
+
+
+## Chapter_01_Ending_3
+
+[MidLeft][LoadOlmos][MidRight][LoadColome]
+[CloseEyes]Ah[Beat] the taste of coffee.[AN]
+There is nothing as nice[N]
+as a freshly brewed cup of Qahweh's blessing.[OpenEyes][A]
+[MidLeft]
+Yes, we are most fortunate.[A]
+[MidRight]
+Indeed we are.[AN]
+Tell me, my son.[N]
+How are you feeling?[AN]
+Today was your first real battle,[N]
+was it not?[A]
+[MidLeft]
+Truth be told, Father, it is exhausting.[AN]
+My respect for those who fight[N]
+has only increased.[AN]
+Reading of battle in books is[N]
+quite different from writing them.[A]
+[MidRight]
+Indeed.[AN]
+It is good you've come to recognize[N]
+this at such a young age.[AN]
+Nevertheless, are you prepared for what lies ahead?[A]
+[MidLeft]
+What do you mean, Father?[A]
+[MidRight]
+[Beat] I fear there is a dark cloud looming[N]
+over the island of Tomelloso.[AN]
+Whispers of discontent.[N]
+Changing winds and turning tides.[AN]
+I have an audience with House Tamarindo.[N]
+I suspect I will learn more there.[A]
+[MidLeft]
+Baronness Sykora?[N]
+What problems do you foresee?[A]
+[MidRight]
+I cannot say here.[N]
+However, you'd do well to keep yourself sharp.[AN]
+I've been informed that the pirates today[N]
+are part of a larger enterprise.[AN]
+I'd like to see you take the lead[N]
+in ousting them from our lands.[A]
+[MidLeft]
+M-me!?[N]
+But why not send Lord Aquino instead?[A]
+[MidRight]
+[Beat]No. Your brother has other duties.[N]
+This is best left to you.[A]
+[MidLeft]
+Father[Beat] if you see me suitable,[N]
+then I will oblige.[A]
+[MidRight]
+Very well.[N]
+I trust Lady Flor to guide you.[AN]
+You'd do well to consider her counsel.[N]
+I must be off.[A]
+[MidLeft]
+But Father, you've only just arrived.[N]
+Your coffee is still warm![A]
+[MidRight]
+There will be time later, my son.[N]
+Send your brother a message.[AN]
+I will return in a few weeks' time.[A]
+[MidRight][Clear]
+[MidLeft]
+Father[Beat][N]
+He clearly had a lot on his mind[Beat][AN]
+But I must focus on my task.[N]
+If Father trusted me with this[Beat][AN]
+I cannot afford to let him down.[A][X]

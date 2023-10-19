@@ -1,0 +1,750 @@
+## VulneraryDesc
+A medicinal solution.[N]
+Recovers 15 HP.[X]
+
+## VulneraryUseText
+Heals 15 HP.[X]
+
+## HerbName
+Herb[X]
+
+## HerbDesc
+A refreshing herb.[N]
+Recovers 10 HP.[X]
+
+## HerbUseText
+Heals 10 HP.[X]
+
+## BronzeSwordName
+Brz. Sword[X]
+
+## BronzeLanceName
+Brz. Lance[X]
+
+## BronzeAxeName
+Brz. Axe[X]
+
+## BronzeBowName
+Brz. Bow[X]
+
+## BronzeWeaponDesc
+Cannot critically hit.[X]
+
+## EspadaAnchaName
+Esp. Ancha[X]
+
+## EspadaAnchaDesc
+x3 Reverse Weapon Triangle. Olmos.[X]
+
+## TealGemName
+Teal Gem[X]
+
+## TealGemDesc
+A popular gemstone[N]
+worth 1,000 gold.[X]
+
+## CutlassName
+Cutlass[X]
+
+## CutlassDesc
+Can strike consecutively.[X]
+
+## TamsHarpoonName
+Tam's Harpoon[X]
+
+## TamsHarpoonDesc
+Long range throwing spear.[X]
+
+## VolantAxeName
+Volant Axe[X]
+
+## VolantAxeDesc
+Eff. vs. Fliers.[X]
+
+## WindName
+Wind[X]
+
+## WindDesc
+[X]
+
+## ArcfireName
+Arcfire[X]
+
+## ArcfireDesc
+Eff. vs. Cavalry.[X]
+
+## ArcwindName
+Arcwind[X]
+
+## ArcwindDesc
+Eff vs. Fliers.[X]
+
+## ArcthunderName
+Arcthunder[X]
+
+## ArcthunderDesc
+Eff vs. Dragons.[X]
+
+## SagittaeName
+Sagittae[X]
+
+## SagittaeDesc
+[X]
+
+## HerosFlareName
+Hero's Flare[X]
+
+## HerosFlareDesc
+Can strike consecutively.[X]
+
+## FlameSwordName
+Flame Sword[X]
+
+## FlameSwordDesc
+Magic sword.[X]
+
+## WingSpearName
+Wing Spear[X]
+
+## WingSpearDesc
+Eff vs. Cavalary/Armor.[X]
+
+## PerfectEdgeName
+Perfect Edge[X]
+
+## PerfectEdgeDesc
+The ultimate blade.[X]
+
+## PerfectPikeName
+Perfect Pike[X]
+
+## PerfectPikeDesc
+The ultimate lance.[X]
+
+## PerfectAxeName
+Perfect Axe.[X]
+
+## PerfectAxeDesc
+The ultimate axe.[X]
+
+## PerfectArcName
+Perfect Arc[X]
+
+## PerfectArcDesc
+The ultimate bow.[X]
+
+## YabusameName
+Yabusame[X]
+
+## YabusameDesc
+Eff vs. Horses/Fliers.[X]
+
+## CleaveBowName
+Cleave Bow[X]
+
+## CleaveBowDesc
+Eff. vs. Armor/Fliers.[X]
+
+## SpyYumiName
+Spy Yumi[X]
+
+## SpyYumiDesc
+Long range.[X]
+
+## BronzeDaggerName
+Brz. Dagger[X]
+
+## BronzeDaggerDesc
+Pierces DEF.[X]
+
+## IronKnifeName
+Iron Knife[X]
+
+## IronKnifeDesc
+-3 STR/MAG on hit.[X]
+
+## IronDaggerName
+Iron Dagger[X]
+
+## IronDaggerDesc
+Pierces DEF.[X]
+
+## SteelDaggerName
+Stl. Dagger[X]
+
+## DoubleBowName
+Double Bow[X]
+
+## DoubleBowDesc
+Superior range.[X]
+
+## SteelDaggerDesc
+Pierces DEF.[X]
+
+## SteelKnifeName
+Stl. Knife[X]
+
+## SteelKnifeDesc
+-3 DEF/RES on hit.[X]
+
+## PhurbaName
+Phurba[X]
+
+## PhurbaDesc
+Uses MAG. Pierces DEF.[X]
+
+## SilverDaggerName
+Slv. Dagger[X]
+
+## SilverDaggerDesc
+Pierces DEF.[X]
+
+## SilverKnifeName
+Slv. Knife.[X]
+
+## SilverKnifeDesc
+-3 SPD on hit.[X]
+
+## KillerDaggerName
+Ki. Dagger[X]
+
+## KillerDaggerDesc
+Pierces DEF.[X]
+
+## PerfectKilaName
+Perfect Kila[X]
+
+## PerfectKilaDesc
+The ultimate dagger.[X]
+
+## ParazoniumName
+Parazonium[X]
+
+## ParazoniumDesc
+Uses MAG. Pierces RES.[X]
+
+## DuplexBowName
+Duplex Bow[X]
+
+## DuplexBowDesc
+Can strike consecutively.[X]
+
+## WoDaoName
+Wo Dao[X]
+
+## WoDaoDesc
+Myrmidon/Swordmaster only.[X]
+
+## KopijaName
+Kopija[X]
+
+## KopijaDesc
+Deserter/Dragoon only.[X]
+
+## KonKopijaName
+Kon Kopija[X]
+
+## KonKopijaDesc
+Eff. vs Horse. Reaver. Deserter only.[X]
+
+## DrakKopijaName
+Drak Kopija[X]
+
+## DrakKopijaDesc
+Eff vs. Dragon. Reaver. Desetery only.[X]
+
+## MaDaoName
+Ma Dao[X]
+
+## MaDaoDesc
+Eff vs. Horse. Reaver. Myrmidon only.[X]
+
+## LongDaoName
+Long Dao[X]
+
+## LongDaoDesc
+Eff. vs. Dragon. Reaver. Myrmidon only.[X]
+
+## LukName
+Luk[X]
+
+## LukDesc
+Archer/Sniper only.[X]
+
+## NakLukName
+Nak Luk[X]
+
+## NakLukDesc
+Eff vs. Magic. Archer only.[X]
+
+## ChoLukName
+Cho Luk[X]
+
+## ChoLukDesc
+Pierce DEF. Archer only.[X]
+
+## DokkiName
+Dokki[X]
+
+## DokkiDesc
+Pirate/Berserker only.[X]
+
+## BangPaeDokkiName
+B.P. Dokki[X]
+
+## BangPaeDokkiDesc
+Eff vs. Armor. Reaver. Pirate only.[X]
+
+## MalDokkiName
+Mal Dokki[X]
+
+## MalDokkiDesc
+Eff vs. Horse. Reaver. Pirate only.[X]
+
+## SapName
+Sap[X]
+
+## SapDesc
+-6 DEF/RES for 1 turn.[X]
+
+## WeakenName
+Weaken[X]
+
+## WeakenDesc
+-6 STR/MAG for 1 turn.[X]
+
+## CurseName
+Curse[X]
+
+## CurseDesc
+Unit cannot heal for 3 turns.[X]
+
+## OomphName
+Oomph[X]
+
+## OomphDesc
++3 STR/MAG for 3 turns. -1 per turn.[X]
+
+## SturdyName
+Sturdy[X]
+
+## SturdyDesc
++3 DEF/RES for 3 turns. -1 per turn.[X]
+
+## FairyName
+Fairy[X]
+
+## FairyDesc
+Unit will be ignored by enemy. 1 turn.[X]
+
+## DemonName
+Demon[X]
+
+## DemonDesc
+Unit will be targeted by enemy. 1 turn.[X]
+
+## BlessName
+Bless[X]
+
+## BlessDesc
+Immune to eff. damage and crits.[X]
+
+## TirelessName
+Tireless[X]
+
+## TirelessDesc
+Unit does not fatigue. 3 turns.[X]
+
+## CoffeeName
+Coffee[X]
+
+## CoffeeDesc
+-10 Fatigue.[X]
+
+## RubySwordName
+Ruby Sword[X]
+
+## RubySwordDesc
+x3 Weapon Triangle effects[X]
+
+## SapphireLanceName
+Sapphire Lnc.[X]
+
+## SapphireLanceDesc
+x3 Weapon Triangle effects[X]
+
+## EmeraldAxeName
+Emerald Axe[X]
+
+## EmeraldAxeDesc
+x3 Weapon Triangle effects[X]
+
+## LancereaverName
+Lancereaver[X]
+
+## LancereaverDesc
+Reverses weapon triangle.[X]
+
+## AxereaverName
+Axereaver[X]
+
+## AxereaverDesc
+Reverses weapon triangle.[X]
+
+## SwordreaverName
+Swordreaver[X]
+
+## SwordreaverDesc
+Reverses weapons triangle.[X]
+
+## DragonstoneName
+Dragonstone[X]
+
+## DragonstoneDesc
++5 STR/MAG/SKL/DEF/RES.[X]
+
+## MageStoneName
+Magestone[X]
+
+## MageStoneDesc
+TBD[X]
+
+## ArmorStoneName
+Armorstone[X]
+
+## ArmorStoneDesc
+TBD[X]
+
+## PowerStoneName
+Powerstone[X]
+
+## PowerStoneDesc
+TBD[X]
+
+## WindStoneName
+Windstone[X]
+
+## WindStoneDesc
+TBD[X]
+
+## PierceStoneName
+Piercestone[X]
+
+## PierceStoneDesc
+TBD[X]
+
+## BraveStoneName
+Bravestone[X]
+
+## BraveStoneDesc
+TBD[X]
+
+## ConcoctionName
+Concoction[X]
+
+## ConcoctionDesc
+A powerful medicine.[N]
+Heals 30 HP when consumed.[X]
+
+## ConcoctionUseText
+Heals 30 HP.[X]
+
+## SkyPiercerName
+Sky Piercer[X]
+
+## SkyPiercerDesc
+[X]
+
+## ParashuName
+Parashu[X]
+
+## ParashuDesc
+[X]
+
+## SteelPoleaxeName
+Stl. Poleaxe[X]
+
+## SteelPoleaxeDesc
+[X]
+
+## BardicheName
+Bardiche[X]
+
+## BardicheDesc
+[X]
+
+## PikeName
+Pike[X]
+
+## PikeDesc
+[X]
+
+## SteelGreatlanceName
+Stl. Grtlance[X]
+
+## SteelGreatlanceDesc
+[X]
+
+## GlaiveName
+Glaive[X]
+
+## GlaiveDesc
+[X]
+
+## SleepBowName
+Sleep Bow[X]
+
+## SleepBowDesc
+Enemy sleep 1 turn on hit.[X]
+
+## MageSwordName
+Mage Sword[X]
+
+## MageSwordDesc
+Uses MAG. Hits RES.[X]
+
+## MageLanceName
+Mage Lance[X]
+
+## MageLanceDesc
+Uses MAG. Hits RES.[X]
+
+## MageAxeName
+Mage Axe[X]
+
+## MageAxeDesc
+Uses MAG. Hits RES.[X]
+
+## MageBowName
+Mage Bow[X]
+
+## MageBowDesc
+Uses MAG. Hits RES.[X]
+
+## AdamantSwordName
+Adamant Swd[X]
+
+## AdamantSwordDesc
+Uses MAG. Hits RES.[X]
+
+## AdamantLanceName
+Adamant Lnc[X]
+
+## AdamantLanceDesc
+Uses MAG. Hits RES.[X]
+
+## AdamantAxeName
+Adamant Axe[X]
+
+## AdamantAxeDesc
+Uses MAG. Hits RES.[X]
+
+## AdamantBowName
+Adamant Bow[X]
+
+## AdamantBowDesc
+Uses MAG. Hits RES.[X]
+
+## SootheName
+Soothe[X]
+
+## SootheDesc
+TBD[X]
+
+## RegenerateName
+Regenerate[X]
+
+## RegenerateDesc
+TBD[X]
+
+## LightRuneStaffName
+Rune Staff[X]
+
+## LightRuneStaffDesc
+TBD[X]
+
+## HasteName
+Haste[X]
+
+## HasteDesc
+TBD[X]
+
+## ThiefStaffName
+Thief[X]
+
+## ThiefStaffDesc
+TBD[X]
+
+## EntrapName
+Entrap[X]
+
+## EntrapDesc
+TBD[X]
+
+## EnfeebleName
+Enfeeble[X]
+
+## EnfeebleDesc
+TBD[X]
+
+## ZombieStaffName
+S. Zombie[X]
+
+## ZombieStaffDesc
+Summons ally Revenant.[X]
+
+## BonewalkerStaffName
+S. Bonewalker[X]
+
+## BonewalkerStaffDesc
+Summons ally bonewalker.[X]
+
+## WightStaffName
+S. Wight[X]
+
+## WightStaffDesc
+Summons ally wight.[X]
+
+## AgainName
+Again[X]
+
+## AgainDesc
+Allows ally to move again.[X]
+
+## FreezeName
+Freeze[X]
+
+## FreezeDesc
+TBD[X]
+
+## SlowName
+Slow[X]
+
+## SlowDesc
+TBD[X]
+
+## GalvanizedSwordName
+Galvanized Swd.[X]
+
+## GalvanizedSwordDesc
+Durable. Cannot crit.[X]
+
+## GalvanizedLanceName
+Galvanized Lnc.[X]
+
+## GalvanizedLanceDesc
+Durable. Cannot crit.[X]
+
+## GalvanizedAxeName
+Galvanized Axe[X]
+
+## GalvanizedAxeDesc
+Durable. Cannot crit.[X]
+
+## GalvanizedBowName
+Galvanized Bow[X]
+
+## GalvanizedBowDesc
+Durable. Cannot crit.[X]
+
+## ClaymoreName
+Claymore[X]
+
+## ClaymoreDesc
+[X]
+
+## ZweihanderName
+Zweihander[X]
+
+## ZweihanderDesc
+[X]
+
+## SpiritWolfName
+S. Wolf[X]
+
+## SpiritWolfDesc
+Monk only.[X]
+
+## SpiritTreeName
+S. Tree[X]
+
+## SpiritTreeDesc
+Eff. vs. Armor. Monk only.[X]
+
+## SpiritWardName
+S. Ward[X]
+
+## SpiritWardDesc
++2 DEF/RES. Monk only.[X]
+
+## SpiritGustName
+S. Gust[X]
+
+## SpiritGustDesc
+Afflicts float. Monk only.[X]
+
+## SpiritArrowName
+S. Arrow[X]
+
+## SpiritArrowDesc
+Pierce DEF/RES. Monk only.[X]
+
+## SpiritGiftName
+S. Gift[X]
+
+## SpiritGiftDesc
+Heals dmg dealt. Monk only.[X]
+
+## PhisName
+Phis[X]
+
+## PhisDesc
+Poisons target. Shaman only.[X]
+
+## PhumicheuxName
+Phumicheux[X]
+
+## PhumicheuxDesc
+Eff vs. magic. Shaman only.[X]
+
+## TawanName
+Tawan[X]
+
+## TawanDesc
+Shaman only.[X]
+
+## PaixaoName
+Paixao[X]
+
+## PaixaoDesc
+Afflicts wet. Shaman only.[X]
+
+## NakhaengName
+Nakhaeng[X]
+
+## NakhaengDesc
+Afflicts sleep. Shaman only.[X]
+
+## XatmaName
+Xatma[X]
+
+## XatmaDesc
+Afflicts feeble. Shaman only.[X]
+
+## OilName
+Oil[X]
+
+## OilDesc
+Afflicts greasy for 3 turns.[X]
+
+## SoakName
+Soak[X]
+
+## SoakDesc
+Afflicts wet for 3 turns.[X]
+
+## UpdriftName
+Updrift[X]
+
+## UpdriftDesc
+Afflicts float for 3 turns.[X]

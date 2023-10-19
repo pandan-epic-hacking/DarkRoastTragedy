@@ -1,0 +1,23 @@
+//Stat Screen
+PUSH
+ORG 0x88638
+POIN StatScreenImage
+ORG 0x88644
+POIN StatScreenTSA
+ORG 0x88640
+POIN StatScreenPalette
+ORG 0x88590
+BYTE 0 0 0 0
+POP
+
+ALIGN 4
+StatScreenImage:
+#incbin "StatScreenfix.png.dmp"
+
+ALIGN 4
+StatScreenTSA:
+#incbin "StatScreenfix.png.tsa.dmp"
+
+ALIGN 4
+StatScreenPalette:
+#incbin "StatScreenfix.png.pal.dmp"

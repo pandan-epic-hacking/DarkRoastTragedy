@@ -1,0 +1,14 @@
+#define ItemIconSheet ItemIconSheetLabel
+#define MaxItemIcons 0x100
+
+ALIGN 4
+ItemIconSheetLabel:
+#incbin "ItemIconSheet.dmp"
+ORG ItemIconSheetLabel + (MaxItemIcons * 128)
+
+PUSH
+ORG $36B4
+POIN ItemIconSheet
+ORG $3788
+POIN ItemIconSheet
+POP
