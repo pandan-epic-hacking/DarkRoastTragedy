@@ -66,7 +66,7 @@ POIN CriticalCheck
 #endif // CANNOT_CRIT
 POIN 0
 
-#define AuraSkillEntry(skillID) "PUSH; ORG AuraSkillTable + skillID; BYTE 0x1; POP"
+//#define AuraSkillEntry(skillID) "PUSH; ORG AuraSkillTable + skillID; BYTE 0x1; POP"
 
 ALIGN 4
 AuraSkillTable:

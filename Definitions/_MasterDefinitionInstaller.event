@@ -1,4 +1,10 @@
-#define EndSpace 0xefb2e0
+// old dark roast free space
+//#define EndSpace 0xefb2e0
+//#define FreeSpaceBLRange 0x1c1ec0
+
+// new skillsys freespace
+#define FreeSpace 0xb2a610
+#define FreeSpaceEnd 0xC00000
 #define FreeSpaceBLRange 0x1c1ec0
 
 #define IsPointer 0x8000000
@@ -7,6 +13,7 @@
 #include "PListDefinitions.event"
 #include "TableDefinitions.event"
 #include "ChapterDefinitions.event"
+#include "CustomDefinitions.event"
 
 
 //Music hack installers for spooky asm

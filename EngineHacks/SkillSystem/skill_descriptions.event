@@ -1,9 +1,9 @@
 
-ALIGN 4
-SkillDescTable:
-ORG 2*0xFF+SkillDescTable
+//ALIGN 4
+//SkillDescTable:
+//ORG 2*0xFF+SkillDescTable
 
-#define SkillDescription(skillID,description) "PUSH; ORG 2*skillID+SkillDescTable; SHORT description; POP"
+//#define SkillDescription(skillID,description) "PUSH; ORG 2*skillID+SkillDescTable; SHORT description; POP"
 
 SkillDescription(AcrobatID,SD_Acrobat)
 SkillDescription(PassID,SD_Pass)
