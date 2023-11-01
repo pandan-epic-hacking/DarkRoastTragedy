@@ -280,11 +280,11 @@ V3.4
 #endif
 
 
-#ifdef _FE8_
-#ifndef _NO_FE8_DEFINITIONS_
-#include "EAStandardLibrary/FE8 Definitions.txt"
-#endif
-#endif
+//#ifdef _FE8_
+//#ifndef _NO_FE8_DEFINITIONS_
+//#include "EAStandardLibrary/FE8 Definitions.txt"
+//#endif
+//#endif
 
 
 #endif //EA_STDLIB_EVENT

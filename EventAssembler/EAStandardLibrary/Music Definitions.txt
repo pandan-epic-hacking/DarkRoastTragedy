@@ -457,7 +457,7 @@
 #endif
 
 
-#ifdef _FE8_
+//#ifdef _FE8_
 
 #define Nothing 0x00
 #define The_Valiant 0x01
