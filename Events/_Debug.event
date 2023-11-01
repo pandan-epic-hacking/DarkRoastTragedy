@@ -70,10 +70,6 @@ BeginningScene:
 	ENUN
 	LOAD1 0x1 EnemyUnits
 	ENUN
-	SVAL 0x1 Domingo
-	SVAL 0x2 wtStaff
-	SVAL 0x3 SRank
-	ASMC ASMC_GiveWeaponRank
 	CALL PrepScreen
 	ENDA
 

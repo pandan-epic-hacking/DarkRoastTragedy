@@ -94,7 +94,7 @@ ALIGN 4
 EndOfTurn_HealSkillTable:
 FILL(256*8) 
 
-//#define EndOfTurnHealFunctionEntry(skillID, usability, effect) "PUSH; ORG EndOfTurn_HealSkillTable+(skillID*8); POIN usability|1 effect|1; POP" 
+#define EndOfTurnHealFunctionEntry(skillID, usability, effect) "PUSH; ORG EndOfTurn_HealSkillTable+(skillID*8); POIN usability|1 effect|1; POP" 
 EndOfTurnHealFunctionEntry(HoardersBaneID, HoardersBane_CanUnitHeal, HoardersBane_HealAmount) 
 EndOfTurnHealFunctionEntry(DarkBargainID, DarkBargain_CanUnitHeal, DarkBargain_HealAmount) 
 EndOfTurnHealFunctionEntry(SoulSapID, SoulSap_CanUnitHeal, SoulSap_HealAmount) 
@@ -106,7 +106,7 @@ ALIGN 4
 StartOfTurn_BuffSkillTable: 
 FILL(256*8) 
 
-//#define StartOfTurnBuffFunctionEntry(skillID, usability, effect) "PUSH; ORG StartOfTurn_BuffSkillTable+(skillID*8); POIN usability|1 effect|1; POP" 
+#define StartOfTurnBuffFunctionEntry(skillID, usability, effect) "PUSH; ORG StartOfTurn_BuffSkillTable+(skillID*8); POIN usability|1 effect|1; POP" 
 
 StartOfTurnBuffFunctionEntry(HoneMagID, IsHoneApplicable, HoneMag) 
 StartOfTurnBuffFunctionEntry(HoneStrID, IsHoneApplicable, HoneStr) 

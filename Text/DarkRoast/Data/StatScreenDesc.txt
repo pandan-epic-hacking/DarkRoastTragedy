@@ -1,0 +1,12 @@
+
+
+
+
+##RefugeScrollText
+Select a unit to refuge this unit.[X]
+
+##UM_Refuge
+ Refuge[X]
+ 
+##UM_RefugeDesc
+ Take refuge with target.[X]

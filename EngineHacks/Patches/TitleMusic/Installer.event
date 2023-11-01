@@ -1,5 +1,0 @@
-// Change the title screen music
-/*
-SoundTableEntry(0x2, TheFragranceOfBlackCoffee, 1)
-SoundTableEntry(0x43, TheFragranceOfBlackCoffee, 1)
-*/

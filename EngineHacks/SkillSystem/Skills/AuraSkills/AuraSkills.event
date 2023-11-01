@@ -76,7 +76,7 @@ POIN GetUnitsInRange
 WORD TantivyID
 
 ALIGN 4
-Focus:
+FocusSkill:
 #incbin "Focus/Focus.dmp"
 POIN SkillTester
 POIN GetUnitsInRange

@@ -134,7 +134,7 @@ ALIGN 4
 PassiveSkillBit:
 WORD PASSIVE_ITEM_SKILL_ATTR
 
-//#define NegatedSkillEntry(skillID) "PUSH; ORG NegatedSkills + skillID; BYTE 0x1; POP"
+#define NegatedSkillEntry(skillID) "PUSH; ORG NegatedSkills + skillID; BYTE 0x1; POP"
 
 ALIGN 4
 NihilIDLink:

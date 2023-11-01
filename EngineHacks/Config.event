@@ -37,7 +37,7 @@
 #define BATTLE_STATS
 
 //If uncommented, will enable Casual Mode (set by flag 0xB0).
-//#define CASUAL_MODE
+#define CASUAL_MODE
 
 //If uncommented, will enable Contemporary Talk & Support.
 #define CONTEMPORARY_TALK_SUPPORT
@@ -53,7 +53,7 @@
 #define TRAP_REWORK
 
 //If uncommented, will enable Dragon Veins.
-//#define DRAGON_VEINS
+#define DRAGON_VEINS
 
 //If uncommented, will enable Heal Tiles.
 #define HEAL_TILES
@@ -184,7 +184,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 // If uncommented, the fourth page of the stat screen will include personal information on the character.
 // This information can be edited in the "Personal Data Editor.csv" file.
 // This will automatically enable Narrow Font.
-#define ENABLE_PERSONAL_INFO
+//#define ENABLE_PERSONAL_INFO
 
 // If uncommented, the third page of the stat screen will only show weapon ranks that the unit has a rank in.
 #define ONLY_SHOW_USED_RANKS
@@ -258,11 +258,11 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 #define DEBUFFS_MIN_ZERO
 
 // If true Shadowgift/Lumina will check for staff ranks when checking for highest magic rank
-//#define SHADOWGIFT_VIA_STAFF_RANK False
-//#define LUMINA_VIA_STAFF_RANK True
+#define SHADOWGIFT_VIA_STAFF_RANK False
+#define LUMINA_VIA_STAFF_RANK True
 
 // If commented, Poison Strike and Grisly Wound will not check whether no damage was dealt before applying additional damage.
-//#define RESIDUAL_DAMAGE_REQUIRES_BATTLE_DAMAGE
+#define RESIDUAL_DAMAGE_REQUIRES_BATTLE_DAMAGE
 
 // If commented, Capture will be a global command and will not require the Capture skill.
 #define CAPTURE_SKILL_REQUIRED
@@ -283,7 +283,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 #define ALSO_USE_MOVEMENT_SKILL_CHECK True
 
 //If true, get 1/4 prices with both Bargain and Silver Card simultaneously.
-//#define DOES_BARGAIN_STACK False
+#define DOES_BARGAIN_STACK False
 
 //If true, will use the vanilla check in addition to the skill check.
 #define ALSO_USE_VANILLA_DANCE_CHECK False
@@ -296,7 +296,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 // #define COMBAT_ARTS
 
 //If true, Combat Arts will not be allowed to hit more than once.
-//#define ARTS_HIT_ONCE True
+#define ARTS_HIT_ONCE True
 
 //If uncommented, ModularPreBattleSkill will be installed.
 //This modularly affects combat arts. See: SkillSystem\Skills\PreBattleSkills\ModularPreBattleSkills
@@ -344,7 +344,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 
 // If true, Hoarders Bane will consume vulneraries from your inventory and the supply (as long as your party can access the supply). 
 // If false, it will only consume vulneraries from your inventory. 
-//#define HOARDERS_BANE_USE_CONVOY True
+#define HOARDERS_BANE_USE_CONVOY True
 
 // If true, enemies/npcs with Canto+ will retreat to their safest tile with any remaining movement after their action. 
 #define CANTO_AI True
@@ -357,7 +357,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 #define PRESS_SELECT_TO_VIEW_GROWTHS
 
 //If true, the stat colors for player units will reflect their growth in the stat.
-//#define USE_STAT_COLORS True
+#define USE_STAT_COLORS True
 
 //When leveling up, the game rerolls (up to 5 times) until you gain at least this many points
 #define MIN_STAT_GAIN 1 // vanilla is 1 
@@ -374,16 +374,16 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 
 //If true, Stat bracketing mode will exist. This keeps your stats within X points of the average. 
 // Note: this takes promotion level into account, but does not take stat boosters into account 
-#define STAT_BRACKETING_EXISTS True 
+#define STAT_BRACKETING_EXISTS False 
 
 //ID of flag to use for bracketed growths mode, if enabled (also works if flag here is defined as 0)
-//#define BRACKETED_GROWTHS_FLAG_ID 0xED // 0xEE is used to hide dmg numbers in battle
+#define BRACKETED_GROWTHS_FLAG_ID 0xED // 0xEE is used to hide dmg numbers in battle
 
 //If using stat bracketing and your stat is below average by this many points, always gain it on levelup 
-#define FORCE_WHEN_BELOW_AVERAGE_BY_AMOUNT 1 
+#define FORCE_WHEN_BELOW_AVERAGE_BY_AMOUNT 3 
 
 //If using stat bracketing and your stat is above average by this many points, never gain it on levelup 
-#define PREVENT_WHEN_ABOVE_AVERAGE_BY_AMOUNT 3 
+#define PREVENT_WHEN_ABOVE_AVERAGE_BY_AMOUNT 5 
 
 //If true, passive growth boosters and metis tome will not affect growths in fixed growths mode.
 #define FIXED_GROWTHS_DONT_BOOST True
