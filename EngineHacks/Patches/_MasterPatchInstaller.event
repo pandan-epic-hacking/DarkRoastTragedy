@@ -16,11 +16,11 @@
 #include "Music/MusicAsmInstaller.event"
 
 // Thracia stuff from Tele2
-//#include "Fatigue/Fatigue.event"
-//#include "EscapeArrive/EscapeArrive.event"
+#include "Fatigue/Fatigue.event"
+#include "EscapeArrive/EscapeArrive.event"
 
 // Convoy
-//#include "FE8-Convoy_Partition_and_Item_Combining/FE8-Convoy_Stuff_EA.event"
+#include "FE8-Convoy_Partition_and_Item_Combining/FE8-Convoy_Stuff_EA.event"
 
 PUSH
 ORG FreeSpaceBLRange
@@ -96,7 +96,6 @@ BYTE 251
 POP
 
 // changes to 1 RN (sorry haters)
-
 PUSH
 ORG $CC2
 SHORT $E004
