@@ -1,3 +1,4 @@
+#undef PortraitTable
 #define PortraitTable PortraitTableLabel
 #define MaxPortraitEntries 0x200
 

@@ -148,7 +148,7 @@ BeginningScene:
 	Background(Harbor)
 	Text(Chapter_01_Opening_3)
 	FADI 0x10
-	CALL ClearBackground
+	ClearBackground
 	CAM1 Hacha
 	FlashCursor(Hacha, 60)
 	Text(Chapter_01_Opening_4)

@@ -10,14 +10,16 @@
     #include "Text/InstallTextData.event"
     MESSAGE Used text space ends at currentOffset
 
-    PROTECT $1000000 $1000100
-
     #include "Spritans/_MasterSpritansInstaller.event"
+    MESSAGE Used grafix space ends at currentOffset
 
     //CSV tables
     #include "Tables/TableInstaller.event"
     MESSAGE Used table space ends at currentOffset
+    //repointing
+    #undef ItemTable
     #define ItemTable NewItemTable
+    #undef ClassTable
     #define ClassTable NewClassTable
 
     //Engine Hacks
@@ -26,14 +28,18 @@
 
     //Events
     #include "Events/_MasterEventInstaller.event"
+    MESSAGE Used event space ends at currentOffset
 
     //Maps
     #include "Maps/MasterMapInstaller.event"
     #include "Maps/TilesetInstaller.event"
+    MESSAGE Used map space ends at currentOffset
 
+    //Sound
     #include "Sound/_SoundTable/SoundTable.event"
     #include "Sound/_Instrument/Instrument.event"
     #include "Sound/_MasterSoundInstaller.event"
+    MESSAGE Used sound space ends at currentOffset
 	
 	//ASSERT (FreeSpaceEnd - currentOffset) // So that you don't overwrite vanilla tables if using default freespace
 	

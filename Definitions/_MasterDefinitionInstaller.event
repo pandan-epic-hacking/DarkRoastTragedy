@@ -2,7 +2,7 @@
 
 #include "TilesetDefinitions.event"
 #include "PListDefinitions.event"
-#include "TableDefinitions.event"
+//#include "TableDefinitions.event"
 #include "ChapterDefinitions.event"
 //#include "CustomDefinitions.event"
 #include "CharacterDefinitions.event"

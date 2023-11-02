@@ -24,7 +24,7 @@ CharacterBasedEvents:
 	END_MAIN
 
 MiscBasedEvents:
-	AFEV 0 GameOver 0x65
+	CauseGameOverIfLordDies
 	END_MAIN
 
 LocationBasedEvents:

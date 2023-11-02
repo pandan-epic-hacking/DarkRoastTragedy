@@ -3,50 +3,58 @@
 #define NoEvent 1
 
 // Event Calls
-#define GameOver 0x592104
+//#define GameOver 0x592104
 #define PrepScreen 0x591FD8
 #define StopSkipping 0x591F40
 #define TextWithBackground 0x9EE310
 #define SetBackground 0x9EE2E8
-#define ClearBackground 0x9EE2C4
+//#define ClearBackground 0x9EE2C4
 
 // EVBIT
-#define NoFade "EVBIT_T 0x7"
+//#define NoFade "EVBIT_T 0x7"
 #define CamOn "EVBIT_T 0x9"
 #define CamOff "EVBIT_F 0x9"
 
 // UNIT
+/*
 #define Ally 0
 #define NPC 1
 #define Enemy 2
 #define Level(level, side, autoLevel) level*8+side*2+autoLevel
 #define DropItem 2
+*/
 
 // Common Events
+/*
 #define Text(textID) "TEXTSTART; TEXTSHOW textID; TEXTEND; REMA"
 #define Text(textID, background) "SVAL 0x2 background; SVAL 0x3 textID; CALL TextWithBackground; CALL StopSkipping"
 #define CenterTutorialTextBox "SVAL 0xB 0xFFFFFFFF"
+#define FlashCursor(X,Y,time) "CUMO [X,Y]; STAL time; CURE"
+#define FlashCursor(character,time) "CUMO character; STAL time; CURE"
+*/
 #define SysText(textID) "CenterTutorialTextBox; TUTORIALTEXTBOXSTART"
 #define Background(background) "SVAL 2 background; CALL SetBackground"
 #define GiveItem(itemID) "SVAL 0x3 itemID; GIVEITEMTO 0xFFFF"
 #define GiveItem(itemID, unitID) "SVAL 0x3 itemID; GIVEITEMTO unitID"
 #define LoadUnits(units) "CamOn; LOAD1 0x1 units; ENUN; CamOff"
 #define MuteMusic "MUSC 0x7FFF"
-#define FlashCursor(X,Y,time) "CUMO [X,Y]; STAL time; CURE"
-#define FlashCursor(character,time) "CUMO character; STAL time; CURE"
 
 // AI Change Events
 #define SetAI(unitid,ai1,ai2,ai3,ai4) "SVAL 0x1 ai1|(ai2<<8)|(ai3<<16)|(ai4<<24); CHAI unitid"
 #define ChargeWarning(character,alivetext) "CHECK_ALIVE character; BEQ 1 0x0 0xC;CAM1 character;STAL 20; FlashCursor(character,60); Text(alivetext); LABEL 1"
 
 // Location Based Events
+/*
 #define Village(eventID, offset, villX, villY) "VILL eventID offset [villX,villY] 0x10; LOCA eventID [villX,villY-1] 0x20"
 #define Seize(seizeX,seizeY) "LOCA 3 [seizeX,seizeY] 0xF"
+*/
 
 // Misc Based Events
+/*
 #define CauseGameOverIfLordDies "AFEV 0 GameOver 0x65"
 #define DefeatBoss(offset) "AFEV 0 offset 2"
 #define DefeatAll(offset) "AFEV 0 offset 6"
+*/
 
 // Turn Based Events
 #define TurnEvent(eventID, pointer, turn, phase) "TURN eventID pointer [turn, 0] phase"
@@ -56,12 +64,14 @@
 #define EnemyPhase 0x80
 
 // AI
+/*
 #define DefaultAI [0x0, 0x0, 0x4, 0x0]
-#define ChargeAI [0x0, 0x0, 0x4, 0x0]
 #define NeverMoveAI [0x3, 0x3, 0x4, 0x20]
-#define BossAI [0x3, 0x3, 0x4, 0x20]
 #define AttackInRangeAI [0x0, 0x3, 0x4, 0x0]
+*/
 #define AttackInDoubleRangeAI [0x0, 0x6, 0x4, 0x0]
+#define ChargeAI [0x0, 0x0, 0x4, 0x0]
+#define BossAI [0x3, 0x3, 0x4, 0x20]
 #define LootingAI [0x0, 0x4, 0x4, 0x0]
 #define ThiefAI [0x6, 0x5, 0x4, 0x0]
 #define WallAI [0x0, 0xB, 0x4, 0x0]
@@ -72,8 +82,8 @@
 #define MoveInTwoRangeHealAI [0xE, 0x6, 0x0, 0x0]
 #define StandHealAI [0xE, 0x3, 0x0, 0x20]
 
-
 // BGs
+/*
 #define HouseBG 0x00
 #define Salehs_House 0x01
 #define Village 0x02
@@ -201,3 +211,4 @@
 #define Lyon_OrganArrangement 0x44
 #define The_Final_Battle 0x45
 #define Epilogue 0x46
+*/
