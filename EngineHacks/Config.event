@@ -91,10 +91,10 @@
 #define MOVEARROW_HACK
 
 //If uncommented, will enable Negative Weapon Wt/Crit Display.
-#define NEGATIVE_WTCRIT_DISPLAY
+//#define NEGATIVE_WTCRIT_DISPLAY
 
 //If uncommented, will enable the battle crit cap
-#define CRIT_CAP
+//#define CRIT_CAP
 
 //If uncommented, will enable Chapter Names as Text.
 #define TEXT_CHAPTER_NAMES
@@ -148,7 +148,7 @@
 
 //If uncommented, Cannot Crit will be implemented.
 //Makes weapon crit of 255 negate crits.
-//#define CANNOT_CRIT
+#define CANNOT_CRIT
 
 //If uncommented, AdvWeaponLocks will be implemented.
 //This is a rewrite of venno's array-based weapon locks.
