@@ -1,147 +1,147 @@
 INLINE Class_Level_Cap_Table,Level Cap
 0x00 Separator/Nothing,40
-0x01 Ephraim Lord,40
-0x02 Eirika Lord,40
-0x03 Ephraim Great Lord,40
-0x04 Eirika Great Lord,40
-0x05 Cavalier,40
-0x06 Cavalier (F),40
-0x07 Paladin,40
-0x08 Paladin (F),40
-0x09 Armour Knight,40
-0x0A Armour Knight (F),40
-0x0B General,40
-0x0C General (F),40
-0x0D Thief,40
-0x0E Manakete,40
-0x0F Mercenary,40
-0x10 Mercenary (F),40
-0x11 Hero,40
-0x12 Hero (F),40
-0x13 Myrmidon,40
-0x14 Myrmidon (F),40
-0x15 Swordmaster,40
-0x16 Swordmaster (F),40
-0x17 Assassin,40
-0x18 Assassin (F),40
-0x19 Archer,40
-0x1A Archer (F),40
-0x1B Sniper,40
-0x1C Sniper (F),40
-0x1D Ranger,40
-0x1E Ranger (F),40
-0x1F Wyvern Rider,40
-0x20 Wyvern Rider (F),40
-0x21 Wyvern Lord,40
-0x22 Wyvern Lord (F),40
-0x23 Wyvern Knight,40
-0x24 Wyvern Knight (F),40
-0x25 Mage,40
-0x26 Mage (F),40
-0x27 Sage,40
-0x28 Sage (F),40
-0x29 Mage Knight,40
-0x2A Mage Knight (F),40
-0x2B Bishop,40
-0x2C Bishop (F),40
-0x2D Shaman,40
-0x2E Shaman (F),40
-0x2F Druid,40
-0x30 Druid (F),40
-0x31 Summoner,40
-0x32 Summoner (F),40
-0x33 Rogue,40
-0x34 Gorgon Egg,40
-0x35 Great Knight,40
-0x36 Great Knight (F),40
-0x37 Recruit (2),40
-0x38 Journeyman (3),40
-0x39 Pupil (3),40
-0x3A Recruit (3),40
-0x3B Manakete,40
-0x3C Manakete (F),40
-0x3D Journeyman (1),40
-0x3E Pupil (1),40
-0x3F Fighter,40
-0x40 Warrior,40
-0x41 Brigand,40
-0x42 Pirate,40
-0x43 Berserker,40
-0x44 Monk,40
-0x45 Priest,40
-0x46 Bard,40
-0x47 Recruit (1),40
-0x48 Pegasus Knight,40
-0x49 Falcon Knight,40
-0x4A Cleric,40
-0x4B Troubadour,40
-0x4C Valkyrie,40
-0x4D Dancer,40
-0x4E Soldier,40
-0x4F Necromancer,40
-0x50 Fleet,40
-0x51 Phantom,40
-0x52 Revenant,40
-0x53 Entombed,40
-0x54 Bonewalker,40
-0x55 Bonewalker (Bow),40
-0x56 Wight,40
-0x57 Wight (Bow),40
-0x58 Bael,40
-0x59 Elder Bael,40
-0x5A Cyclops,40
-0x5B Mauthe Doog,40
-0x5C Gwyllgi,40
-0x5D Tarvos,40
-0x5E Maelduin,40
-0x5F Mogall,40
-0x60 Arch Mogall,40
-0x61 Gorgon,40
-0x62 Gorgon Egg,40
-0x63 Gargoyle,40
-0x64 Deathgoyle,40
-0x65 Dracozombie,40
-0x66 Demon King,40
-0x67 Archer on Ballista,40
-0x68 Archer on Iron Ballista,40
-0x69 Archer on Killer Ballista,40
-0x6A Ballista,40
-0x6B Iron Ballista,40
-0x6C Killer Ballista,40
-0x6D Civilian,40
-0x6E Civilian (F),40
-0x6F Civilian,40
-0x70 Civilian (F),40
-0x71 Civilian,40
-0x72 Civilian (F),40
-0x73 Peer,40
-0x74 Queen,40
-0x75 Prince,40
-0x76 Queen,40
-0x77 (empty),40
-0x78 Fallen Prince,40
-0x79 Tent,40
-0x7A Pontifex,40
-0x7B Fallen Peer,40
-0x7C Cyclops 2,40
-0x7D Elder Bael 2,40
-0x7E Journeyman (2),40
-0x7F Invalid,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
-NULL,40
+Ephraim Lord,40
+Lord,40
+Ephraim Master Lord,40
+GreatLord,40
+SwordCavalier,40
+SwordCavalier_F,40
+SwordPaladin,40
+SwordPaladin_F,40
+LanceArmor,40
+AxeArmor,40
+General,40
+SwordArmor,40
+Thief,40
+Manakete,40
+Mercenary,40
+Mercenary_F,40
+Hero,40
+Hero_F,40
+Myrmidon,40
+Myrmidon_F,40
+Swordmaster,40
+Swordmaster_F,40
+Thief_F,40
+LanceCavalier,40
+Archer,40
+Archer_F,40
+Sniper,40
+Sniper_F,40
+NomadTrooper,40
+NomadTrooper_F,40
+WyvernRider,40
+LanceCavalier_F,40
+WyvernLord,40
+AxeCavalier,40
+BowArmor,40
+AxeCavalier_F,40
+Mage,40
+Mage_F,40
+Sage,40
+Sage_F,40
+WarMonk,40
+WarCleric,40
+Bishop,40
+Bishop_F,40
+Shaman,40
+Shaman_F,40
+Druid,40
+Druid_F,40
+Deserter,40
+Nomad,40
+Diabolist,40
+Gorgon Egg,40
+LancePaladin,40
+LancePaladin_F,40
+AxePaladin,40
+AxePaladin_F,40
+Nomad_F,40
+Guard,40
+Manakete,40
+Dancer,40
+Dragoon,40
+Hunter,40
+Fighter,40
+Warrior,40
+Ohtli,40
+Pirate,40
+Berserker,40
+Monk,40
+Priest,40
+Bard,40
+FalcoKnight,40
+PegasusKnight,40
+Deserter_F,40
+Cleric,40
+Troubadour,40
+Valkyrie,40
+Dancer,40
+Soldier,40
+Necromancer,40
+Fleet,40
+Phantom,40
+Revenant,40
+Entombed,40
+Bonewalker,40
+Bonewalker (Bow),40
+Wight,40
+Wight (Bow),40
+Halberdier,40
+Soldier_F,40
+Fighter_F,40
+Ohtli_F,40
+Pirate_F,40
+Warrior_F,40
+Berserker_F,40
+SkyKnight,40
+HolyKnight,40
+Gorgon,40
+Gorgon Egg,40
+Gargoyle,40
+Deathgoyle,40
+Dracozombie,40
+Demon King,40
+Archer on Ballista,40
+Archer on Iron Ballista,40
+Archer on Killer Ballista,40
+Ballista,40
+Iron Ballista,40
+Killer Ballista,40
+Civilian,40
+Civilian (F),40
+Civilian,40
+Civilian (F),40
+Civilian,40
+Civilian (F),40
+Peer,40
+Queen,40
+Prince,40
+Outlaw,40
+Grassrunner,40
+Fallen Prince,40
+Tent,40
+Pontifex,40
+Dead Peer,40
+StaffMage,40
+Curate,40
+Ballistician,40
+Shrine,40
+Chief,40
+Chief_F,40
+Troubadour_M,40
+MageKnight,40
+MageKnight_F,40
+Log,40
+Chicken,40
+Merchant,40
+Gazelle,40
+Horse,40
+Pumpkin,40
+Outlaw_F,40
+Grassrunner_F,40
+Roughneck,40
+Boss,40
 NULL,40
 NULL,40
 NULL,40

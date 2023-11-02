@@ -1,19 +1,19 @@
 INLINE MagCharTable,Base Magic,Magic Growth
 None,0,0
-Eirika,0,25
-Seth,2,10
-Gilliam,0,5
-Franz,1,10
-Moulder,3,40
-Vanessa,2,25
-Ross,0,5
-Neimi,2,15
-Colm,1,10
-Garcia,0,5
-Innes,1,10
-Lute,5,65
-Natasha,1,60
-Cormag,0,5
+Olmos,0,25
+Flor,2,10
+Guadalupe,0,5
+Sosimo,1,10
+Bastio,3,40
+Zapatera,2,25
+Naranja,0,5
+Arbolito,2,15
+Domingo,1,10
+Luz,0,5
+Robles,1,10
+Erlantz,5,65
+Usoa,1,60
+Itzel,0,5
 Ephraim,0,15
 Forde,1,10
 Kyle,0,10
@@ -60,13 +60,13 @@ FakeEirika,0,0
 +AC0-0,0,0
 Lyon's Summon,0,0
 +AC0-0,0,0
-+AC0-0,0,0
-Knoll's Summon,0,0
+Goon_Ch01,0,0
+Hacha,0,0
 Ewan's Summon,0,0
-Lyon (Ch 17),13,50
-Morva (Ch 20),6,85
-Orson (Ch 5x),3,10
-Valter (Ch 15),2,5
+Perez,13,50
+Recaudo,6,85
+Ajo,3,10
+Cebolla,2,5
 Selena (Ch 10B +ACY- 13B),10,40
 Valter (Prologue),2,5
 Breguet (Ch 1),0,5

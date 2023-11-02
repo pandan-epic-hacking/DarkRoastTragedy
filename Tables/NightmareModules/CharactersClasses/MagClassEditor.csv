@@ -1,78 +1,78 @@
 INLINE MagClassTable,Base Magic,Magic Growth,Magic Cap,Magic Promotion Bonus
 None,0,0,20,0
 Ephraim Lord,1,10,20,0
-Eirika Lord,1,25,20,0
+Lord,1,25,20,0
 Ephraim Master Lord,2,10,24,1
-Eirika Master Lord,2,20,25,2
-Cavalier,0,0,20,0
-Cavalier (F),0,0,20,0
-Paladin,2,10,24,2
-Paladin (F),2,10,24,2
-Armour Knight,0,0,20,0
-Armour Knight (F),0,0,20,0
+GreatLord,2,20,25,2
+SwordCavalier,0,0,20,0
+SwordCavalier_F,0,0,20,0
+SwordPaladin,2,10,24,2
+SwordPaladin_F,2,10,24,2
+LanceArmor,0,0,20,0
+AxeArmor,0,0,20,0
 General,0,0,22,0
-General (F),0,0,22,0
+SwordArmor,0,0,22,0
 Thief,1,5,20,0
 Manakete,0,0,20,0
 Mercenary,0,0,20,0
-Mercenary (F),0,0,20,0
+Mercenary_F,0,0,20,0
 Hero,0,0,23,0
-Hero (F),0,0,23,0
+Hero_F,0,0,23,0
 Myrmidon,1,15,20,0
-Myrmidon (F),1,15,20,0
+Myrmidon_F,1,15,20,0
 Swordmaster,2,10,23,1
-Swordmaster (F),2,10,23,1
-Assassin,1,0,22,0
-Assassin (F),1,0,22,0
+Swordmaster_F,2,10,23,1
+Thief_F,1,0,22,0
+LanceCavalier,1,0,22,0
 Archer,0,0,20,0
-Archer (F),0,0,20,0
+Archer_F,0,0,20,0
 Sniper,1,10,24,1
-Sniper (F),1,10,24,1
-Ranger,0,0,22,0
-Ranger (F),0,0,22,0
-Wyvern Rider,0,0,20,0
-Wyvern Rider (F),0,0,20,0
-Wyvern Lord,0,0,21,0
-Wyvern Lord (F),0,0,21,0
-Wyvern Knight,1,5,24,1
-Wyvern Knight (F),1,5,24,1
+Sniper_F,1,10,24,1
+NomadTrooper,0,0,22,0
+NomadTrooper_F,0,0,22,0
+WyvernRider,0,0,20,0
+LanceCavalier_F,0,0,20,0
+WyvernLord,0,0,21,0
+AxeCavalier,0,0,21,0
+BowArmor,1,5,24,1
+AxeCavalier_F,1,5,24,1
 Mage,1,55,20,0
-Mage (F),1,55,20,0
+Mage_F,1,55,20,0
 Sage,5,45,28,1
-Sage (F),4,45,30,1
-Mage Knight,4,40,24,2
-Mage Knight (F),3,40,25,2
+Sage_F,4,45,30,1
+WarMonk,4,40,24,2
+WarCleric,3,40,25,2
 Bishop,4,35,25,2
-Bishop (F),4,35,25,1
+Bishop_F,4,35,25,1
 Shaman,2,50,20,0
-Shaman (F),3,45,20,0
+Shaman_F,3,45,20,0
 Druid,6,55,29,0
-Druid (F),7,55,29,0
-Summoner,5,50,27,0
-Summoner (F),5,50,27,0
-Rogue,3,25,26,3
+Druid_F,7,55,29,0
+Deserter,5,50,27,0
+Nomad,5,50,27,0
+Diabolist,3,25,26,3
 Gorgon Egg,0,0,30,0
-Great Knight,0,0,21,0
-Great Knight (F),0,0,21,0
-Recruit (2),0,0,20,0
-Journeyman (3),0,0,22,0
-Pupil (3),5,55,29,2
-Recruit (3),0,0,23,0
+LancePaladin,0,0,21,0
+LancePaladin_F,0,0,21,0
+AxePaladin,0,0,20,0
+AxePaladin_F,0,0,22,0
+Nomad_F,5,55,29,2
+Guard,0,0,23,0
 Manakete,2,0,20,0
-Manakete (F),2,0,20,0
-Journeyman (1),0,0,20,0
-Pupil (1),1,55,20,0
+Dancer,2,0,20,0
+Dragoon,0,0,20,0
+Hunter,1,55,20,0
 Fighter,0,0,20,0
 Warrior,0,0,21,0
-Brigand,0,0,20,0
+Ohtli,0,0,20,0
 Pirate,0,0,20,0
 Berserker,0,0,21,0
 Monk,1,30,20,0
 Priest,1,30,20,0
 Bard,1,45,20,0
-Recruit (1),0,0,20,0
-Pegasus Knight,1,10,20,0
-Falcon Knight,3,30,23,3
+FalcoKnight,0,0,20,0
+PegasusKnight,1,10,20,0
+Deserter_F,3,30,23,3
 Cleric,1,30,20,0
 Troubadour,1,25,20,0
 Valkyrie,4,35,25,2
@@ -87,15 +87,15 @@ Bonewalker,0,0,20,0
 Bonewalker (Bow),0,0,20,0
 Wight,0,0,21,0
 Wight (Bow),0,0,21,0
-Bael,0,0,20,0
-Elder Bael,0,0,22,0
-Cyclops,0,0,21,0
-Mauthe Doog,0,0,20,0
-Gwyllgi,0,0,23,0
-Tarvos,0,0,20,0
-Maelduin,0,0,21,0
-Mogall,2,45,20,0
-Arch Mogall,6,55,29,0
+Halberdier,0,0,20,0
+Soldier_F,0,0,22,0
+Fighter_F,0,0,21,0
+Ohtli_F,0,0,20,0
+Pirate_F,0,0,23,0
+Warrior_F,0,0,20,0
+Berserker_F,0,0,21,0
+SkyKnight,2,45,20,0
+HolyKnight,6,55,29,0
 Gorgon,8,60,29,0
 Gorgon Egg,0,0,30,0
 Gargoyle,0,0,20,0
@@ -117,31 +117,31 @@ Civilian (F),0,0,20,0
 Peer,0,0,20,0
 Queen,0,0,20,0
 Prince,0,0,20,0
-Queen,0,0,20,0
-(empty),0,0,20,0
+Outlaw,0,0,20,0
+Grassrunner,0,0,20,0
 Fallen Prince,0,0,20,0
 Tent,0,0,20,0
 Pontifex,0,0,20,0
 Dead Peer,0,0,20,0
-Cyclops,0,0,21,0
-Elder Bael,0,0,22,0
-Journeyman (2),0,0,20,0
-Pupil (2),2,55,20,1
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
+StaffMage,0,0,21,0
+Curate,0,0,22,0
+Ballistician,0,0,20,0
+Shrine,2,55,20,1
+Chief,1,10,20,0
+Chief_F,1,10,20,0
+Troubadour_M,1,10,20,0
+MageKnight,1,10,20,0
+MageKnight_F,1,10,20,0
+Log,1,10,20,0
+Chicken,1,10,20,0
+Merchant,1,10,20,0
+Gazelle,1,10,20,0
+Horse,1,10,20,0
+Pumpkin,1,10,20,0
+Outlaw_F,1,10,20,0
+Grassrunner_F,1,10,20,0
+Roughneck,1,10,20,0
+Boss,1,10,20,0
 Ephraim Lord,1,10,20,0
 Ephraim Lord,1,10,20,0
 Ephraim Lord,1,10,20,0
