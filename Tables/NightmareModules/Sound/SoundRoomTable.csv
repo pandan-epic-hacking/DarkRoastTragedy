@@ -1,5 +1,4 @@
-SoundRoomTable,songNumber,songLength,displayCondition,songName
-0xA20E74_0x45,32_h,32_d,32_p,32_h
+INLINE SoundRoomTable,songNumber,songLength,displayCondition,songName
 0,0x1,2640,0x0,0x78b
 1,0x2,5880,0x0,0x78c
 2,0x3,4140,0x0,0x78d

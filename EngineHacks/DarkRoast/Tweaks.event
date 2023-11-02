@@ -93,9 +93,6 @@ ORG 0x019024
 BYTE 0x01 0x20
 POP
 
-// MMB
-#include "MMB/PandanMMBItemList.event"
-
 // Kill difficulty select
 PUSH
 ORG $AC3E0
