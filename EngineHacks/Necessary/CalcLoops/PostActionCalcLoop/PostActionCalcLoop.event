@@ -15,7 +15,9 @@ POIN LungeUpdate
 	POIN GaidenZeroOutSpellVariables
 #endif // GAIDEN_MAGIC
 
-
+#ifdef ACTION_REFUGE
+	POIN PostActionRefugeCorrection
+#endif // ACTION_REFUGE
 
 
 WORD 0

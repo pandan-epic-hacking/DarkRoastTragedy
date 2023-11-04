@@ -187,6 +187,7 @@ UnitMenuTable:
  MenuCommand(UM_Sacrifice, UM_SacrificeDesc, NormalText, Sacrifice_Usability, Sacrifice_Effect)
  MenuCommand(UM_ArdentSacrifice, UM_ArdentSacrificeDesc, NormalText, ArdentSacrifice_Usability, ArdentSacrifice_Effect)
  MenuCommand(UM_ReciprocalAid, UM_ReciprocalAidDesc, NormalText, ReciprocalAid_Usability, ReciprocalAid_Effect)
+ MenuCommand(UM_Refuge,UM_RefugeDesc,NormalText,RefugeUsability,RefugeEffect)
  
  
   UM_Rescue
