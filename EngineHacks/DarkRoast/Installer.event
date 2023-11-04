@@ -1,5 +1,6 @@
 #include "Fixes.event"
 #include "Tweaks.event"
+#include "MusicAsmInstaller.event"
 
 // MMB
 //#include "MMB/PandanMMBItemList.event"
