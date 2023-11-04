@@ -190,4 +190,13 @@ INLINE SoundRoomTable,songNumber,songLength,displayCondition,songName
 188,OmoriForestFrenzy_Song,0,0x0,OmoriForestFrenzy_Name
 189,SegaCDBIOS_Song,0,0x0,SegaCDBIOS_Name
 190,PowerPros3PennantHappyEnd_Song,0,0x0,PowerPros3PennantHappyEnd_Name
+191,PokemonTCGGrassClub_Song,0,0x0,PokemonTCGGrassClub_Name
+192,WreckingCrewGoldenHammer_Song,0,0x0,WreckingCrewGoldenHammer_Name
+193,MischiefMakersSteppin_Song,0,0x0,MischiefMakersSteppin_Name
+194,SuperMarioBros3FortressBoss_Song,0,0x0,SuperMarioBros3FortressBoss_Name
+195,KissShotLoseTheme_Song,0,0x0,KissShotLoseTheme_Name
+196,PokemonTCGGetBoosterPack_Song,0,0x0,PokemonTCGGetBoosterPack_Name
+197,FE4GirlFromTheSpiritForest_Song,0,0x0,FE4GirlFromTheSpiritForest_Name
+198,ShenmueNozomi_Song,0,0x0,ShenmueNozomi_Name
+199,LoZTotKRitoVillageNight_Song,0,0x0,LoZTotKRitoVillageNight_Name
 TERMINATOR,0xFFFFFFFF,0,0x0,0x0

@@ -296,7 +296,7 @@ Yoshi's Safari - Grassland[X]
 Wizardry 3 - Adventurer's Inn[X]
 
 ## LoZWWGreatSea_Name
-LoZ: WW - Great Sea[X]
+LoZ:WW - Great Sea[X]
 
 ## GuardicGaidenTanmei_Name
 Guardic Gaiden - Tanmei[X]
@@ -326,10 +326,10 @@ Sailor Moon R - Forest[X]
 Sailor Moon R - Crystal Tokyo[X]
 
 ## LoZOoAMermaidCave_Name
-LoZ: OoA - Mermaid Cave[X]
+LoZ:OoA - Mermaid Cave[X]
 
 ## LoZOoATroubleOnTheRaft_Name
-LoZ: OoA - Trouble On The Raft[X]
+LoZ:OoA - Trouble On The Raft[X]
 
 ## KBBStage5_Name
 Kirby Block Ball - Stage 5[X]
@@ -359,7 +359,34 @@ Live A Live - Megalomania[X]
 Omori - Forest Frenzy[X]
 
 ## SegaCDBIOS_Name
-Sega CD BIOS[X]
+SEGA CD BIOS[X]
 
 ## PowerPros3PennantHappyEnd_Name
-Power Pros 3 - Pennant Happy End[X]
+PP3 - Pennant Happy End[X]
+
+## PokemonTCGGrassClub_Name
+PTCG - Grass Club[X]
+
+## WreckingCrewGoldenHammer_Name
+Wrecking Crew - Golden Hammer[X]
+
+## MischiefMakersSteppin_Name
+Mischief Makers - Steppin'[X]
+
+## SuperMarioBros3FortressBoss_Name
+SMB3 - Fortress Boss[X]
+
+## KissShotLoseTheme_Name
+Kiss Shot - Lose Theme[X]
+
+## PokemonTCGGetBoosterPack_Name
+PTCG - Get Booster Pack[X]
+
+## FE4GirlFromTheSpiritForest_Name
+FE4 - Girl From the Spirit Forest[X]
+
+## ShenmueNozomi_Name
+Shenmue - Nozomi[X]
+
+## LoZTotKRitoVillageNight_Name
+LoZ:TotK - Rito Village (Night)[X]

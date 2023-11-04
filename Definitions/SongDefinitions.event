@@ -120,3 +120,12 @@
 #define Wizardry3AdventurersInn_Song 0x460
 #define WoWTavern_Song 0x461
 #define YoshiSafariGrassland_Song 0x462
+#define PokemonTCGGrassClub_Song 0x463
+#define WreckingCrewGoldenHammer_Song 0x464
+#define MischiefMakersSteppin_Song 0x465
+#define SuperMarioBros3FortressBoss_Song 0x466
+#define KissShotLoseTheme_Song 0x467
+#define PokemonTCGGetBoosterPack_Song 0x468
+#define FE4GirlFromTheSpiritForest_Song 0x469
+#define ShenmueNozomi_Song 0x46a
+#define LoZTotKRitoVillageNight_Song 0x46b

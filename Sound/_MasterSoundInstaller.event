@@ -611,3 +611,42 @@ SoundTableEntry(WoWTavern_Song, WoWTavern, 1)
 SoundTableEntry(YoshiSafariGrassland_Song, YoshiSafariGrassland, 1)
 }
 
+{
+#include "Music\PokemonTCGGrassClub.event"
+SoundTableEntry(PokemonTCGGrassClub_Song, PokemonTCGGrassClub, 1)
+}
+
+{
+#include "Music\WreckingCrewGoldenHammer.event"
+SoundTableEntry(WreckingCrewGoldenHammer_Song, WreckingCrewGoldenHammer, 1)
+}
+
+{
+#include "Music\MischiefMakersSteppin.event"
+SoundTableEntry(MischiefMakersSteppin_Song, MischiefMakersSteppin, 1)
+}
+
+{
+#include "Music\SuperMarioBros3FortressBoss.event"
+SoundTableEntry(SuperMarioBros3FortressBoss_Song, SuperMarioBros3FortressBoss, 1)
+}
+
+{
+#include "Music\KissShotLoseTheme.event"
+SoundTableEntry(KissShotLoseTheme_Song, KissShotLoseTheme, 1)
+}
+
+{
+#include "Music\FE4GirlFromTheSpiritForest.event"
+SoundTableEntry(FE4GirlFromTheSpiritForest_Song, FE4GirlFromTheSpiritForest, 1)
+}
+
+{
+#include "Music\ShenmueNozomi.event"
+SoundTableEntry(ShenmueNozomi_Song, ShenmueNozomi, 1)
+}
+
+{
+#include "Music\LoZTotKRitoVillageNight.event"
+SoundTableEntry(LoZTotKRitoVillageNight_Song, LoZTotKRitoVillageNight, 1)
+}
