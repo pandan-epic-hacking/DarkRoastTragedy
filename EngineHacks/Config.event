@@ -406,4 +406,6 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 //If you are using Str/Mag Split, these are instead located in
 //ExternalHacks/StrMagSplit/ModularStatScreen/DisplayGrowthsOptions.
 
+#define ACTION_REFUGE
+
 #endif // HAX_CONFIG

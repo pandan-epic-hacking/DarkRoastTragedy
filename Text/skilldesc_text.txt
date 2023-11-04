@@ -1637,11 +1637,3 @@ HP by 10.[X]
 ## SD_ReciprocalAid
 Reciprocal Aid: User and target[N]
 ally switch their current HP totals.[X]
-
-## UM_Refuge
-Refuge[X]
- 
-## UM_RefugeDesc
-Take refuge with target.[X]
-
-
