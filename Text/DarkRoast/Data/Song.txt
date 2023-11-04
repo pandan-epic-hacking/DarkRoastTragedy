@@ -390,3 +390,6 @@ Shenmue - Nozomi[X]
 
 ## LoZTotKRitoVillageNight_Name
 LoZ:TotK - Rito Village (Night)[X]
+
+## RPGTsurukuGBFields1_Name
+RPG Tsuruku GB - Fields 1[X]

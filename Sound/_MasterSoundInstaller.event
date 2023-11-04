@@ -650,3 +650,8 @@ SoundTableEntry(ShenmueNozomi_Song, ShenmueNozomi, 1)
 #include "Music\LoZTotKRitoVillageNight.event"
 SoundTableEntry(LoZTotKRitoVillageNight_Song, LoZTotKRitoVillageNight, 1)
 }
+
+{
+#include "Music\RPGTsurukuGBFields1.event"
+SoundTableEntry(RPGTsurukuGBFields1_Song, RPGTsurukuGBFields1, 1)
+}

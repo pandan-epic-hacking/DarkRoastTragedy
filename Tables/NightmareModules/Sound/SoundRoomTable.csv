@@ -199,4 +199,5 @@ INLINE SoundRoomTable,songNumber,songLength,displayCondition,songName
 197,FE4GirlFromTheSpiritForest_Song,0,0x0,FE4GirlFromTheSpiritForest_Name
 198,ShenmueNozomi_Song,0,0x0,ShenmueNozomi_Name
 199,LoZTotKRitoVillageNight_Song,0,0x0,LoZTotKRitoVillageNight_Name
+200,RPGTsurukuGBFields1_Song,0,0x0,RPGTsurukuGBFields1_Name
 TERMINATOR,0xFFFFFFFF,0,0x0,0x0
