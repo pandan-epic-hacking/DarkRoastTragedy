@@ -206,6 +206,14 @@ POP
   // Unlock working on chests
   #include "ExternalHacks/UnlockChest/UnlockChest.event"
   
+  // Convoy Combine by Tequila
+  //ALIGN 4
+  //#include "ExternalHacks/ConvoyCombine/FE8-Convoy_Stuff_EA.event"
+  
+  // Fatigue (so epic) by Sme (w edits from Loog iirc)
+  //ALIGN 4
+  //#include "ExternalHacks/Fatigue/Fatigue.event"
+   
   ALIGN 4
   #include "SkillSystem/SkillSystemInstaller.event"
 
