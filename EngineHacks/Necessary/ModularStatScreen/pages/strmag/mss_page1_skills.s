@@ -107,7 +107,7 @@ draw_status_text_at 21, 7
 
 draw_textID_at 21, 9, textID=0x4f1 @affin
 
-draw_affinity_icon_at 24, 9
+draw_affinity_icon_at 5, 10
 
 
 ldr r0,=TalkTextIDLink
