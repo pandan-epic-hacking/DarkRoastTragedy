@@ -247,3 +247,12 @@ Select an ally to heal.[X]
 
 ## DrawBackTargetBottomText
 Select an ally to pull.[X]
+
+## MessageFatigueRestored
+Fatigue restored[X]
+
+## SS_FatigueText
+Ftg[X]
+
+## SS_FatigueRText
+This unit's level of fatigue.[X]

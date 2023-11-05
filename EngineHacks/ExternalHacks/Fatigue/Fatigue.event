@@ -22,7 +22,7 @@
 #include "FatigueItems.lyn.event"
 
 //Contains ASMC for setting fatigue
-//#include "FatigueASMC.lyn.event"
+#include "FatigueASMC.lyn.event"
 
 //prep screen hooks
 PUSH
