@@ -1,6 +1,8 @@
 #include "Fixes.event"
 #include "Tweaks.event"
 #include "MusicAsmInstaller.event"
+#include "CHAX/MasterChaxInstaller.event"
+#include "asm/MasterAsmInstaller.event"
 
 // MMB
 //#include "MMB/PandanMMBItemList.event"
