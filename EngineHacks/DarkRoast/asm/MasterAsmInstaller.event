@@ -1,1 +1,3 @@
 #include "ComputeBattleUnitDodgeRate/ComputeBattleUnitDodgeRate.event"
+
+#include "EkrLvup_InitStatusText/EkrLvup_InitStatusText.event"
