@@ -2,3 +2,4 @@
 // Do not edit!
 
 #include "event/battle.lyn.event"
+#include "event/exp.lyn.event"
