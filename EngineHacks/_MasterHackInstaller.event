@@ -199,6 +199,12 @@ POP
   // Gaiden Magic 2.0
   #include "ExternalHacks/GaidenMagic/GaidenMagic.event"
   
+  // ShopUnit by Sme (8 Nov note: need to add to menu command)
+  // #include "ExternalHacks/ShopUnit/ShopUnit.event"
+  
+  // FixedDamageWeapons by Sme (8 Nov note: need to add items + adjust pre-battle calc loop)
+  // #include "ExternalHacks/FixedDamageWeapons/FixedDamageWeapons.event"
+  
   #ifdef INSTALL_AoE
 	#include "ExternalHacks/AoE/Installer.event"
   #endif 
