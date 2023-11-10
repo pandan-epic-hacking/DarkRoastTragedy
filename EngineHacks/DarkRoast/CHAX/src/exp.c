@@ -37,16 +37,16 @@ int GetUnitRoundExp(struct Unit* actor, struct Unit* target) {
 }
 
 int GetUnitKillExpBonus(struct Unit* actor, struct Unit* target) {
-	int result = 20;
+	int result = 15;
 
 	if (target->curHP != 0)
 		return 0;
 
 	if (GetLevelDifference(actor, target) > 0)
-		result += 4 * GetLevelDifference(actor, target);
+		result += 3 * GetLevelDifference(actor, target);
 
 	if (UNIT_CATTRIBUTES(target) & CA_BOSS)
-		result += 30;
+		result += 20;
 
 	return result;
 }
