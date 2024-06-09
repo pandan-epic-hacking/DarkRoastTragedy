@@ -103,10 +103,10 @@ POP
   #endif // USE_STRMAG_SPLIT
   
   //Anima Triangle
-  #include "ExternalHacks/AnimaTriangle/AnimaTriangle.event"
+  //#include "ExternalHacks/AnimaTriangle/AnimaTriangle.event"
   
   //Modular EXP
-  #include "ExternalHacks/ModularEXP/ModularEXP.event"
+  //#include "ExternalHacks/ModularEXP/ModularEXP.event"
   
   //Portrait Selection
   #include "ExternalHacks/PortraitSelectASM/PortraitSelectionASM.event"
@@ -160,7 +160,7 @@ POP
   
   //Reaver Split
   ALIGN 4
-  #include "ExternalHacks/ReaverSplit/ReaverSplit.event"
+  //#include "ExternalHacks/ReaverSplit/ReaverSplit.event"
   
   //Cannot Crit
   ALIGN 4

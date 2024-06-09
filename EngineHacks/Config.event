@@ -203,7 +203,7 @@ MESSAGE Please see the README.md there or ask @Vesly for help.
 //#define INSTALL_AoE
 
 // If uncommented, Unlock staves will work on chests.
-// #define UNLOCK_WORKS_ON_CHESTS
+#define UNLOCK_WORKS_ON_CHESTS
 
 // If uncommented, damage numbers will display over participants' heads during battle animations.
 // #define BATTLE_ANIMATION_NUMBERS

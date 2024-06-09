@@ -26,9 +26,9 @@
 #define ERank 1
 #define DRank 21
 #define CRank 71
-#define BRank 131
-#define ARank 201
-#define SRank 251
+#define BRank 151
+#define ARank 251
+#define SRank 255
 */
 
 // Character/Class Attributes
@@ -155,9 +155,9 @@
 #define ERank 1
 #define DRank 21
 #define CRank 71
-#define BRank 131
-#define ARank 201
-#define SRank 251
+#define BRank 151
+#define ARank 251
+#define SRank 255
 
 // Chapter Ojective Types
 

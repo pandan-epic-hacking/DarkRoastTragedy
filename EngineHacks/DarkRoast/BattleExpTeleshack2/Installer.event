@@ -1,0 +1,22 @@
+#include "ActionExp.lyn.event"
+
+#define BossExpReduction(charID, chapterID,levelsToSubtract) "BYTE charID chapterID levelsToSubtract"
+#define BossExpReductionTerminator "BYTE 0xFF 0xFF 0xFF"
+#define PrepromoteTableEntry(charID,levelsToSubtract) "BYTE charID levelsToSubtract"
+#define PrepromoteTableTerminator "BYTE 0xFF 0xFF"
+
+ALIGN 4
+PrepromoteTable:
+PrepromoteTableEntry(Flor,10)
+PrepromoteTableEntry(Domingo,10)
+PrepromoteTableTerminator
+
+ALIGN 4
+BossExpReductionTable: //added to reduce exp granted by early promoted bosses; goal is for them to be 5 levels up on other enemies internally
+// BossExpReduction(Boro_Ch1, Chapter1,15)
+BossExpReductionTerminator
+
+ALIGN 4
+MountedInPrepsTable: //list of chapterIDs where units are mounted in preps and have access to promo items
+// BYTE Chapter13      // shouldn't start until 13?
+BYTE 0xFF

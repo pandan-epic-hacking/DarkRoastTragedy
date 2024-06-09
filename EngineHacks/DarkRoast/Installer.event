@@ -3,6 +3,7 @@
 #include "MusicAsmInstaller.event"
 #include "CHAX/MasterChaxInstaller.event"
 #include "asm/MasterAsmInstaller.event"
+#include "BattleExpTeleshack2/Installer.event"
 
 // MMB
 //#include "MMB/PandanMMBItemList.event"
