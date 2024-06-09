@@ -393,3 +393,18 @@ LoZ:TotK - Rito Village (Night)[X]
 
 ## RPGTsurukuGBFields1_Name
 RPG Tsuruku GB - Fields 1[X]
+
+## ProjectJusticeDiscLoad_Name
+Project Justice - Disc Load[X]
+
+## ToSStruggleToSurvive_Name
+ToS - Struggle to Survive[X]
+
+## DW2Death_Name
+Dragon Warrior 2 - Death[X]
+
+## SonicRResortIsland_Name
+Sonic R - Resort Island[X]
+
+## PTCG2GRIsland_Name
+PTCG2 - GR Island[X]

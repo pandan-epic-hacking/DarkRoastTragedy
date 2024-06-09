@@ -655,3 +655,28 @@ SoundTableEntry(LoZTotKRitoVillageNight_Song, LoZTotKRitoVillageNight, 1)
 #include "Music\RPGTsurukuGBFields1.event"
 SoundTableEntry(RPGTsurukuGBFields1_Song, RPGTsurukuGBFields1, 1)
 }
+
+{
+#include "Music\DW2Death.event"
+SoundTableEntry(DW2Death_Song, DW2Death, 1)
+}
+
+{
+#include "Music\PTCG2GRIsland.event"
+SoundTableEntry(PTCG2GRIsland_Song, PTCG2GRIsland, 1)
+}
+
+{
+#include "Music\SonicRResortIsland.event"
+SoundTableEntry(SonicRResortIsland_Song, SonicRResortIsland, 1)
+}
+
+{
+#include "Music\ToSStruggleToSurvive.event"
+SoundTableEntry(ToSStruggleToSurvive_Song, ToSStruggleToSurvive, 1)
+}
+
+{
+#include "Music\ProjectJusticeDiscLoad.event"
+SoundTableEntry(ProjectJusticeDiscLoad_Song, ProjectJusticeDiscLoad, 1)
+}

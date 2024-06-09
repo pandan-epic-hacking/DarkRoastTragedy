@@ -200,4 +200,9 @@ INLINE SoundRoomTable,songNumber,songLength,displayCondition,songName
 198,ShenmueNozomi_Song,0,0x0,ShenmueNozomi_Name
 199,LoZTotKRitoVillageNight_Song,0,0x0,LoZTotKRitoVillageNight_Name
 200,RPGTsurukuGBFields1_Song,0,0x0,RPGTsurukuGBFields1_Name
+201,PTCG2GRIsland_Song,0,0x0,PTCG2GRIsland_Name
+202,SonicRResortIsland_Song,0,0x0,SonicRResortIsland_Name
+203,DW2Death_Song,0,0x0,DW2Death_Name
+204,ToSStruggleToSurvive_Song,0,0x0,ToSStruggleToSurvive_Name
+205,ProjectJusticeDiscLoad_Song,0,0x0,ProjectJusticeDiscLoad_Name
 TERMINATOR,0xFFFFFFFF,0,0x0,0x0

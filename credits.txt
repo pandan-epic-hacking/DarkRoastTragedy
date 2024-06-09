@@ -21,7 +21,7 @@ COMMUNITY RESOURCES
 ----
 FEBuilder & Various Fixes - 7743
 Music - 7743, RandomWizard, A_Reliable_Chair, SurfingKyogre, Dolkar, Sme
-ModularMiniMugBox - ZaneAvernathy
+ModularMiniMugBox / GORGON-EGG - ZaneAvernathy
 Map Sprites - AstraLunaSol, TheBlindArcher, Subbastian, Alusq, Team SALVAGED, Flasuban, Author_Pendragon, BatimaTheBat, DerTheVaporeon, Nuramon, CanDy, Deranger, Skitty, knabepicer, StreetHero
 Animations - AstraLunaSol, TheBlindArcher, Temp, Alusq, Team SALVAGED, Maiser6, Ukulele, SD9K, Black Mage, Wan, BatimaTheBat, DerTheVaporeon, Iscaneus, Nuramon, Pushwall, JeyTheCount, BlackMage, Pikmin1211, MeatOfJustice, Skitty, eCut, knabepicer, Eldritch
 Mugs - NickT, Capybara
@@ -66,7 +66,8 @@ And the vanilla FE I borrowed most heavily from --
 
 Fire Emblem Shadow Dragon // Numbers, unit design, cast design
 Fire Emblem Gaiden // Shrines, statboost design, the vibes
-Fire Emblem Thracia 776 // Fatigue
+Fire Emblem Thracia 776 // Mechanic design
+Fire Emblem Path of Radiance // Mechanic design
 Fire Emblem Fates // EXP, class design, map ideas
 
 And lastly, other media --

@@ -130,3 +130,8 @@
 #define ShenmueNozomi_Song 0x46a
 #define LoZTotKRitoVillageNight_Song 0x46b
 #define RPGTsurukuGBFields1_Song 0x46c
+#define PTCG2GRIsland_Song 0x46d
+#define SonicRResortIsland_Song 0x46e
+#define DW2Death_Song 0x46f
+#define ToSStruggleToSurvive_Song 0x470
+#define ProjectJusticeDiscLoad_Song 0x471
