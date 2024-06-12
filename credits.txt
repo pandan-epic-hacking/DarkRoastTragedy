@@ -6,15 +6,15 @@ Thanks to all the folks of the FE hacking community that created hacks and other
 PANDAN & FRIENDS
 ----
 Project Chief - Pandan
-Technical Chief / Co-Lead - Pikmin1211
+Technical Chief / Co-Lead - Pikmin1211, LegendOfLoog
 Eventing - Pandan, Pikmin1211
 Mapping - Pandan
-Writing / Storyboarding - Pandan, Xilirite, Kyrads
+Writing / Storyboarding - Pandan, Olivia, Kyrads
 Tech Support - Pikmin1211, Vennobennu, LegendOfLoog, bpat
 Art - Pandan, L95, Levin, Laurent_Lacroix, Autonima, MournfulRelic
 Palettes - Pandan, Pikmin1211
 Music - Pandan, Pikmin1211
-Playtest & Design - Pandan, Pikmin1211, Kyrads, LegendOfLoog, knabepicer, WarPath, TDAWS, Levin, Xilirite, Pushwall, L95, Autonima, Vlak, Laurent_Lacroix, Stan, Scraiza, Zanryu, hypergammaspaces, Snakey1, MournfulRelic
+Playtest & Design - Pandan, Pikmin1211, Kyrads, LegendOfLoog, knabepicer, WarPath, TDAWS, Levin, Olivia, Pushwall, L95, Autonima, Vlak, Laurent_Lacroix, Stan, Scraiza, Zanryu, hypergammaspaces, Snakey1, MournfulRelic
 
 ----
 COMMUNITY RESOURCES
@@ -45,6 +45,7 @@ Updated EXP Formula - Pikmin1211
 Refuge - Sme
 Convoy Combine - Tequila
 Fatigue - Sme (w/ edits from Loog)
+Chao Garden Growth Display (display growths as a letter grade) - Contro
 
 
 ----
@@ -76,3 +77,4 @@ Romance of the Three Kingdoms // Plot elements
 Tales of Symphonia // the vibes
 Super Mario Sunshine // Location design
 Shenmue // Interlude stuff
+Sonic Adventure 2 Battle // growth design

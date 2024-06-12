@@ -1,3 +1,4 @@
+
 #define BuffEnemy 0x40 
 #define DebuffSelf 0xC0 
 #define DebuffEnemy 0x80 

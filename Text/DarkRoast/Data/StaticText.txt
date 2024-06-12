@@ -53,3 +53,12 @@ Determines fatigue cap.[X]
 If exceeds (1/2 HP + BLD)[N]
 unit no longer gains EXP[N]
 or WEXP. Must sit next ch.[X]
+
+# 0x4F7 // Build stat
+Bld[X]
+
+# 0x509 // Staff to Time
+Time[X]
+
+# 0x50C // Dark to Spirit
+Spirit[X]

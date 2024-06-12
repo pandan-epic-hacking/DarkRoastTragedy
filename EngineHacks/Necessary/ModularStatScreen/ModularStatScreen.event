@@ -18,6 +18,7 @@
   #include "DisplayGrowthsOptions/DisplayGrowthsOptions.event"
   #include "WeaponRankStatScreen/WeaponRankStatScreen.event"
   #include "Background/Background.event"
+  #include "pages/strmag/GetGrowthChar.lyn.event"
  
   PUSH
     ORG 0x205b24 //24 for stat screen

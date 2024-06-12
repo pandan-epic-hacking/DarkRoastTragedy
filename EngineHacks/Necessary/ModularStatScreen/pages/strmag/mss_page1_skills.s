@@ -114,9 +114,9 @@ ldr r0,=TalkTextIDLink
 ldrh r0,[r0]
 draw_talk_text_at 21, 11
 
-ldr r0,=SkillsTextIDLink
-ldrh r0, [r0]
-draw_textID_at 21, 13, colour=White @skills
+// ldr r0,=SkillsTextIDLink
+// ldrh r0, [r0]
+// draw_textID_at 21, 13, colour=White @skills
 
 Nexty:
 
@@ -134,6 +134,15 @@ draw_res_bar_at 16, 15
 draw_textID_at 13, 17, 0x4f6 @move
 draw_move_bar_with_getter_at 16, 17
 
+ldr r0, =FatigueSSTextID 
+ldrh r0, [r0]
+draw_textID_at 21, 13 @ ftg
+
+ldr r0, =MSSFatigueGetter
+mov r14,r0
+.short 0xF800 
+draw_number_at 25, 13
+
 b		NextColumn
 .ltorg
 
@@ -141,41 +150,41 @@ skipliterals:
 
 .set NoAltIconDraw, 1 @this is the piece that makes them use a separate sheet
 
-mov r0, r8
-ldr r1, =Skill_Getter
-mov lr, r1
-.short 0xf800 @skills now stored in the skills buffer
+// mov r0, r8
+// ldr r1, =Skill_Getter
+// mov lr, r1
+// .short 0xf800 @skills now stored in the skills buffer
 
-mov r6, r0
-ldrb r0, [r6] 
-cmp r0, #0
-beq SkillEnd
-draw_skill_icon_at 21, 15
+// mov r6, r0
+// ldrb r0, [r6] 
+// cmp r0, #0
+// beq SkillEnd
+// draw_skill_icon_at 21, 15
 
-ldrb r0, [r6,#1]
-cmp r0, #0
-beq SkillEnd
-draw_skill_icon_at 24, 15
+// ldrb r0, [r6,#1]
+// cmp r0, #0
+// beq SkillEnd
+// draw_skill_icon_at 24, 15
 
-ldrb r0, [r6, #2]
-cmp r0, #0
-beq SkillEnd
-draw_skill_icon_at 27, 15
+// ldrb r0, [r6, #2]
+// cmp r0, #0
+// beq SkillEnd
+// draw_skill_icon_at 27, 15
 
-ldrb r0, [r6, #3]
-cmp r0, #0
-beq SkillEnd
-draw_skill_icon_at 21, 17
+// ldrb r0, [r6, #3]
+// cmp r0, #0
+// beq SkillEnd
+// draw_skill_icon_at 21, 17
 
-ldrb r0, [r6, #4]
-cmp r0, #0
-beq SkillEnd
-draw_skill_icon_at 24, 17
+// ldrb r0, [r6, #4]
+// cmp r0, #0
+// beq SkillEnd
+// draw_skill_icon_at 24, 17
 
-ldrb r0, [r6, #5]
-cmp r0, #0
-beq SkillEnd
-draw_skill_icon_at 27, 17
+// ldrb r0, [r6, #5]
+// cmp r0, #0
+// beq SkillEnd
+// draw_skill_icon_at 27, 17
 
 SkillEnd:
 
