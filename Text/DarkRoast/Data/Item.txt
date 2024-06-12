@@ -748,3 +748,9 @@ Updrift[X]
 
 ## UpdriftDesc
 Afflicts float for 3 turns.[X]
+
+## LockpickName
+Lockpick[X]
+
+## LockpickDesc
+Opens doors and chests.[X]

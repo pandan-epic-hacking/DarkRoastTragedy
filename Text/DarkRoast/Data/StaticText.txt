@@ -47,7 +47,7 @@ from MAG-base attacks.[X]
 # 0x54E Build_SS
 Unit's physical size.[N]
 Affects ability to rescue.[N]
-Determines fatigue cap.[X]
+Contributes to fatigue cap.[X]
 
 # 0x54F Fatigue_SS
 If exceeds (1/2 HP + BLD)[N]
