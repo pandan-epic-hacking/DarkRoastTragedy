@@ -34,7 +34,7 @@ Cannot critically hit.[X]
 Esp. Ancha[X]
 
 ## EspadaAnchaDesc
-x3 Reverse Weapon Triangle. Olmos.[X]
+[LockIcon] Olmos. 3x Reaver.[X]
 
 ## TealGemName
 Teal Gem[X]
@@ -49,10 +49,10 @@ Cutlass[X]
 ## CutlassDesc
 Can strike consecutively.[X]
 
-## TamsHarpoonName
-Tam's Harpoon[X]
+## HarpoonName
+Harpoon[X]
 
-## TamsHarpoonDesc
+## HarpoonDesc
 Long range throwing spear.[X]
 
 ## VolantAxeName
@@ -71,19 +71,19 @@ Wind[X]
 Arcfire[X]
 
 ## ArcfireDesc
-Eff. vs. Cavalry.[X]
+Eff. vs. [HorseIcon].[X]
 
 ## ArcwindName
 Arcwind[X]
 
 ## ArcwindDesc
-Eff vs. Fliers.[X]
+Eff vs. [PegasusIcon][DragonIcon].[X]
 
 ## ArcthunderName
 Arcthunder[X]
 
 ## ArcthunderDesc
-Eff vs. Dragons.[X]
+Eff vs. [DragonIcon][ArmorIcon].[X]
 
 ## SagittaeName
 Sagittae[X]
@@ -91,10 +91,10 @@ Sagittae[X]
 ## SagittaeDesc
 [X]
 
-## HerosFlareName
-Hero's Flare[X]
+## DireThunderName
+Dire Thunder[X]
 
-## HerosFlareDesc
+## DireThunderDesc
 Can strike consecutively.[X]
 
 ## FlameSwordName
@@ -659,23 +659,23 @@ Zweihander[X]
 ## ZweihanderDesc
 [X]
 
-## SpiritWolfName
-S. Wolf[X]
+## GiftName
+Gift[X]
 
-## SpiritWolfDesc
-Monk only.[X]
+## Gift
+Heals MAG+15[X]
 
-## SpiritTreeName
-S. Tree[X]
+## SwarmName
+[X]
 
-## SpiritTreeDesc
-Eff. vs. Armor. Monk only.[X]
+## SwarmDesc
+Long range magic.[X]
 
-## SpiritWardName
-S. Ward[X]
+## AromatherapyName
+Aromatherapy[X]
 
-## SpiritWardDesc
-+2 DEF/RES. Monk only.[X]
+## AromatherapyDesc
+Heals Mag+15 and cures bad status.[X]
 
 ## SpiritGustName
 S. Gust[X]
@@ -754,3 +754,9 @@ Lockpick[X]
 
 ## LockpickDesc
 Opens doors and chests.[X]
+
+## KillerFlameName
+Killer Flame[X]
+
+## KillerFlameDesc
+[X]

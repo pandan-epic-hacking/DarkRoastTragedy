@@ -236,6 +236,15 @@
 #define AvoRingStatusID 8
 #define SickStatusID 9
 #define PetrifyStatusID 13
+// #define GreasyStatusID 14
+// #define SoakedStatusID 15
+// #define FloatingStatusID 16
+// #define ProvokeStatusID 17
+// #define InvisibleStatusID 18
+// #define CurseStatusID 19
+// #define NewPoisonStatusID 1A
+// #define TirelessStatusID 1B
+// #define FeebleStatusID 1C
 
 //for setting what status effect 
 //status staves will give 

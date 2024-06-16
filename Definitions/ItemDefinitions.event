@@ -5,7 +5,7 @@
 #define EspadaAncha 0xa
 #define WoDao 0xc
 
-#define TamsHarpoon 0x18
+#define Harpoon 0x18
 
 #define SlimAxe 0x22
 #define VolantAxe 0x2b
@@ -15,9 +15,9 @@
 #define Arcwind 0x3e
 #define Arcthunder 0x3f
 #define Sagittae 0x40
-#define HerosFlare 0x41
-#define SpiritWolf 0x42
-#define SpiritTree 0x43
+#define DireThunder 0x41
+#define Gift 0x42
+#define Swarm 0x43
 #define SpiritWard 0x44
 #define SpiritGust 0x45
 #define SpiritArrow 0x46
