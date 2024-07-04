@@ -11,7 +11,7 @@
 [LoadErlantz] = [LoadFace][0xb3][0x1]
 [LoadFideos] = [LoadFace][0xb4][0x1]
 [LoadFlor] = [LoadFace][0xb5][0x1]
-[LoadGuadalupe] = [LoadFace][0xb6][0x1]
+[LoadVolquez] = [LoadFace][0xb6][0x1]
 [LoadHacha] = [LoadFace][0xb7][0x1]
 [LoadItzel] = [LoadFace][0xb8][0x1]
 [LoadLuz] = [LoadFace][0xb9][0x1]

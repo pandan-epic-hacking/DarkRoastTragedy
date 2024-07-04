@@ -13,12 +13,12 @@ A grizzled battle veteran.[N]
 Shrewd and practical.[N]
 Olmos' sworn guardian.[X]
 
-## GuadalupeName
-Guadalupe[X]
+## VolquezName
+Volquez[X]
 
-## GuadalupeDesc
-Knight of House Poblano.[N]
-Boisterous and self-assured.[X]
+## VolquezDesc
+Spy of House Poblano.[N]
+Has a sharp tongue.[X]
 
 ## SosimoName
 Sosimo[X]
