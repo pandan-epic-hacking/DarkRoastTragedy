@@ -30,17 +30,17 @@ I'd say experienced suits me best. Saying I am "correct" works, too.
 [OpenLeft]
 Hmph. I swear my father made you my retainer simply so you could irk me. Are the others coming back soon? They've been gone for quite a while. I don't understand why you sent all of our foot soldiers ahead. I would've sent you first. You have a horse. You'd be faster.
 [OpenRight]
-My primary objective is to protect you. Like you said, this is a simple task. Let Guadalupe and the boys handle the scouting today. In fact, I see them approaching now. Look to the south.
+My primary objective is to protect you. Like you said, this is a simple task. Let Volquez and the boys handle the scouting today. In fact, I see them approaching now. Look to the south.
 [OpenLeft]
-Oh, I can see them now. Huh? It's just Guadalupe and Zapatera[Beat] 
+Oh, I can see them now. Huh? It's just Volquez and Zapatera[Beat] 
 [OpenRight]
 [Beat] Trouble.
 [X]
 
 ## Chapter_01_Opening_2 
 [ConversationText]
-[FarRight][LoadFlor][Left][LoadGuadalupe][FarLeft][LoadZapatera][Right][LoadOlmos]
-Guadalupe! What's happening?
+[FarRight][LoadFlor][Left][LoadVolquez][FarLeft][LoadZapatera][Right][LoadOlmos]
+Volquez! What's happening?
 [OpenLeft]
 Lord Olmos, Lady Flor. There's a disturbance at the port.
 [OpenFarLeft]
@@ -55,7 +55,7 @@ Lord Olmos! Gah, the lad has a deathwish.
 [OpenLeft]
 Lady Flor?
 [OpenFarRight]
-Let's make sure he doesn't get himself killed. Guadalupe, Zapatera, with me.
+Let's make sure he doesn't get himself killed. Volquez, Zapatera, with me.
 [X]
 
 ## Chapter_01_Opening_3 
@@ -97,7 +97,7 @@ So, the younger son of Baron Colome has graced us with his presence? The cub thi
 ## Chapter_01_Opening_5 
 [ConversationText]
 [OpenLeft][LoadOlmos][OpenFarLeft][LoadFlor]
-Lord Olmos, remember, if we lose you, it's trouble for all of us. Let Guadalupe and I weaken the enemies at full strength so they're easier for you and the boys to take on.
+Lord Olmos, remember, if we lose you, it's trouble for all of us. Let Volquez and I weaken the enemies at full strength so they're easier for you and the boys to take on.
 [OpenLeft]
 [Beat] Right. Let's make our way for the inn.
 [OpenRight]
