@@ -57,11 +57,11 @@ FlorMugData:
 #incbin "dmp\Flor.dmp"
 setMugEntry(FlorMug, FlorMugData, 2, 6, 3, 4)
 
-#define GuadalupeMug 0xb6
+#define VolquezMug 0xb6
 ALIGN 4
-GuadalupeMugData:
-#incbin "dmp\Guadalupe.dmp"
-setMugEntry(GuadalupeMug, GuadalupeMugData, 2, 4, 3, 2)
+VolquezMugData:
+#incbin "dmp\Volquez.dmp"
+setMugEntry(VolquezMug, VolquezMugData, 2, 4, 3, 2)
 
 #define HachaMug 0xb7
 ALIGN 4
