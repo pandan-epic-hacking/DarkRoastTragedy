@@ -1,6 +1,6 @@
 
-#define Claymore 0x5
-#define Zweihander 0x7
+#define Longsword 0x5
+#define Greatsword 0x7
 #define Cutlass 0x8
 #define EspadaAncha 0xa
 #define WoDao 0xc
@@ -8,7 +8,7 @@
 #define Harpoon 0x18
 
 #define SlimAxe 0x22
-#define VolantAxe 0x2b
+#define Swordbreaker 0x2b
 
 #define Arcfire 0x3a
 #define Wind 0x3d
@@ -16,24 +16,30 @@
 #define Arcthunder 0x3f
 #define Sagittae 0x40
 #define DireThunder 0x41
-#define Gift 0x42
+#define Lancebreaker 0x42
 #define Swarm 0x43
-#define SpiritWard 0x44
-#define SpiritGust 0x45
-#define SpiritArrow 0x46
-#define SpiritGift 0x47
+#define Aromatherapy 0x44
+#define Heron 0x45
+#define Luna 0x46
+#define Spiritsap 0x47
 #define FlameSword 0x48
-#define WingSpear 0x49
-#define DoubleBow 0x4a
+#define Axebreaker 0x49
+#define Spiritdrain 0x4a
+
+#define Placeholder 0x57
+#define WarpAll 0x5b
+#define RescueAll 0x5c
+#define Push 0x5d
+#define Zooming 0x5e
 
 #define TealGem 0x77
-#define IronRune 0x7c
 
-#define Strike 0x7d
-#define Fortress 0x7e
+#define Oomph 0x7d
+#define Sturdy 0x7e
 #define Focus 0x7f
 #define Evade 0x80
 
+#define HeavySpear 0x95
 #define Kopija 0x97
 #define KonKopija 0x98
 #define DrakKopija 0x99
@@ -47,11 +53,6 @@
 #define MalDokki 0xa1
 #define Herb 0xa2
 #define Concoction 0xa3
-#define Phis 0xa4
-#define Phumicheux 0xa6
-#define Tawan 0xa7
-#define Paixao 0xa8
-#define Nakhaeng 0xa9
 
 #define RubySword 0xab
 #define SapphireLance 0xac
@@ -61,10 +62,8 @@
 #define ArmorStone 0xaf
 #define PowerStone 0xb0
 #define WindStone 0xb1
-#define PierceStone 0xb2
 #define BraveStone 0xb3
 
-#define Xatma 0xb4
 #define GalvanizedSword 0xb6
 #define GalvanizedLance 0xb7
 #define GalvanizedAxe 0xb8
@@ -75,18 +74,16 @@
 #define BronzeAxe 0xbe
 #define BronzeBow 0xbf
 
-#define SkyPiercer 0xc0
+#define Greatbow 0xc0
 #define Parashu 0xc1
-#define SteelPoleaxe 0xc2
-#define Bardiche 0xc3
-#define Pike 0xc4
-#define SteelGreatlance 0xc5
-#define Glaive 0xc6
+#define Poleaxe 0xc2
+#define Greataxe 0xc3
+#define Longlance 0xc4
+#define Greatlance 0xc6
 #define SleepBow 0xc7
 #define Oil 0xc8
 #define Soak 0xc9
 #define Updrift 0xca
-#define SpyYumi 0xcb
 #define CleaveBow 0xcc
 #define MageSword 0xcd
 #define MageLance 0xce
@@ -131,8 +128,6 @@
 #define DuplexBow 0xf2
 #define Sap 0xf3
 #define Weaken 0xf4
-#define Oomph 0xf5
-#define Sturdy 0xf6
 #define Bless 0xf7
 #define Tireless 0xf8
 #define Curse 0xf9

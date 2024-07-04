@@ -144,12 +144,12 @@
 #define wtLance 0x1
 #define wtAxe 0x2
 #define wtBow 0x3
-// #define wtStaff 0x4
-#define wtTime 0x4
+#define wtStaff 0x4
+// #define wtTime 0x4
 #define wtAnima 0x5
 #define wtKnife 0x6
 // #define wtStone 0x7
-#define wtSpirit 0x7
+// #define wtSpirit 0x7
 #define wtItem 0x9
 #define wtStone 0x11
 

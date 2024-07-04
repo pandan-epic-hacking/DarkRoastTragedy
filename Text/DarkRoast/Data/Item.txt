@@ -55,11 +55,23 @@ Harpoon[X]
 ## HarpoonDesc
 Long range throwing spear.[X]
 
-## VolantAxeName
-Volant Axe[X]
+## SwordbreakerName
+Swordbreaker[X]
 
-## VolantAxeDesc
-Eff. vs. Fliers.[X]
+## SwordbreakerDesc
+Reverses weapon triangle (3x).[X]
+
+## LancebreakerName
+Lancebreaker[X]
+
+## LancebreakerDesc
+Reverses weapon triangle (3x).[X]
+
+## AxebreakerName
+Axebreaker[X]
+
+## AxebreakerDesc
+Reverses weapon triangle (3x).[X]
 
 ## WindName
 Wind[X]
@@ -103,12 +115,6 @@ Flame Sword[X]
 ## FlameSwordDesc
 Magic sword.[X]
 
-## WingSpearName
-Wing Spear[X]
-
-## WingSpearDesc
-Eff vs. Cavalary/Armor.[X]
-
 ## PerfectEdgeName
 Perfect Edge[X]
 
@@ -137,79 +143,67 @@ The ultimate bow.[X]
 Yabusame[X]
 
 ## YabusameDesc
-Eff vs. Horses/Fliers.[X]
+Eff vs. [HorseIcon][PegasusIcon].[X]
 
 ## CleaveBowName
 Cleave Bow[X]
 
 ## CleaveBowDesc
-Eff. vs. Armor/Fliers.[X]
-
-## SpyYumiName
-Spy Yumi[X]
-
-## SpyYumiDesc
-Long range.[X]
+Eff. vs. [ArmorIcon][PegasusIcon].[X]
 
 ## BronzeDaggerName
 Brz. Dagger[X]
 
 ## BronzeDaggerDesc
-Pierces DEF.[X]
+Negates DEF.[X]
 
 ## IronKnifeName
 Iron Knife[X]
 
 ## IronKnifeDesc
--3 STR/MAG on hit.[X]
+-3 STR/MAG on hit. 1 turn.[X]
 
 ## IronDaggerName
 Iron Dagger[X]
 
 ## IronDaggerDesc
-Pierces DEF.[X]
+Negates DEF.[X]
 
 ## SteelDaggerName
 Stl. Dagger[X]
 
-## DoubleBowName
-Double Bow[X]
-
-## DoubleBowDesc
-Superior range.[X]
-
 ## SteelDaggerDesc
-Pierces DEF.[X]
+Negates DEF.[X]
 
 ## SteelKnifeName
 Stl. Knife[X]
 
 ## SteelKnifeDesc
--3 DEF/RES on hit.[X]
+-3 DEF/RES on hit. 1 turn.[X]
 
 ## PhurbaName
 Phurba[X]
 
 ## PhurbaDesc
-Uses MAG. Pierces DEF.[X]
+Uses MAG. Negates DEF.[X]
 
 ## SilverDaggerName
 Slv. Dagger[X]
 
 ## SilverDaggerDesc
-Pierces DEF.[X]
+Negates DEF.[X]
 
 ## SilverKnifeName
 Slv. Knife.[X]
 
 ## SilverKnifeDesc
--3 SPD on hit.[X]
+-3 SPD on hit. 1 turn.[X]
 
 ## KillerDaggerName
 Ki. Dagger[X]
 
 ## KillerDaggerDesc
-Pierces DEF.[X]
+Negates DEF.[X]
 
 ## PerfectKilaName
 Perfect Kila[X]
@@ -221,7 +215,7 @@ The ultimate dagger.[X]
 Parazonium[X]
 
 ## ParazoniumDesc
-Uses MAG. Pierces RES.[X]
+Uses MAG. Negates RES.[X]
 
 ## DuplexBowName
 Duplex Bow[X]
@@ -233,73 +227,73 @@ Can strike consecutively.[X]
 Wo Dao[X]
 
 ## WoDaoDesc
-Myrmidon/Swordmaster only.[X]
+[LockIcon] Myrmidon.[X]
 
 ## KopijaName
 Kopija[X]
 
 ## KopijaDesc
-Deserter/Dragoon only.[X]
+[LockIcon] Deserter.[X]
 
 ## KonKopijaName
 Kon Kopija[X]
 
 ## KonKopijaDesc
-Eff. vs Horse. Reaver. Deserter only.[X]
+[LockIcon] Deserter. Eff. vs [HorseIcon]. Reaver.[X]
 
 ## DrakKopijaName
 Drak Kopija[X]
 
 ## DrakKopijaDesc
-Eff vs. Dragon. Reaver. Desetery only.[X]
+[LockIcon] Deserter. Eff vs. [DragonIcon]. Reaver.[X]
 
 ## MaDaoName
 Ma Dao[X]
 
 ## MaDaoDesc
-Eff vs. Horse. Reaver. Myrmidon only.[X]
+[LockIcon] Myrmidon. Eff vs. [HorseIcon]. Reaver.[X]
 
 ## LongDaoName
 Long Dao[X]
 
 ## LongDaoDesc
-Eff. vs. Dragon. Reaver. Myrmidon only.[X]
+[LockIcon] Myrmidon. Eff. vs. [DragonIcon]. Reaver.[X]
 
 ## LukName
 Luk[X]
 
 ## LukDesc
-Archer/Sniper only.[X]
+[LockIcon] Archer.[X]
 
 ## NakLukName
 Nak Luk[X]
 
 ## NakLukDesc
-Eff vs. Magic. Archer only.[X]
+[LockIcon] Archer. Eff vs. Magic.[X]
 
 ## ChoLukName
 Cho Luk[X]
 
 ## ChoLukDesc
-Pierce DEF. Archer only.[X]
+[LockIcon] Archer. Negates DEF.[X]
 
 ## DokkiName
 Dokki[X]
 
 ## DokkiDesc
-Pirate/Berserker only.[X]
+[LockIcon] Pirate. [X]
 
 ## BangPaeDokkiName
 B.P. Dokki[X]
 
 ## BangPaeDokkiDesc
-Eff vs. Armor. Reaver. Pirate only.[X]
+[LockIcon] Pirate. Eff vs. [ArmorIcon]. Reaver.[X]
 
 ## MalDokkiName
 Mal Dokki[X]
 
 ## MalDokkiDesc
-Eff vs. Horse. Reaver. Pirate only.[X]
+[LockIcon] Pirate. Eff vs. [HorseIcon]. Reaver.[X]
 
 ## SapName
 Sap[X]
@@ -365,19 +359,19 @@ Coffee[X]
 Ruby Sword[X]
 
 ## RubySwordDesc
-x3 Weapon Triangle effects[X]
+3x Weapon Triangle Bonus/Penalty[X]
 
 ## SapphireLanceName
 Sapphire Lnc.[X]
 
 ## SapphireLanceDesc
-x3 Weapon Triangle effects[X]
+3x Weapon Triangle Bonus/Penalty[X]
 
 ## EmeraldAxeName
 Emerald Axe[X]
 
 ## EmeraldAxeDesc
-x3 Weapon Triangle effects[X]
+3x Weapon Triangle Bonus/Penalty[X]
 
 ## LancereaverName
 Lancereaver[X]
@@ -427,10 +421,10 @@ Windstone[X]
 ## WindStoneDesc
 TBD[X]
 
-## PierceStoneName
-Piercestone[X]
+## NegatestoneName
+Negatestone[X]
 
-## PierceStoneDesc
+## NegatestoneDesc
 TBD[X]
 
 ## BraveStoneName
@@ -449,53 +443,41 @@ Heals 30 HP when consumed.[X]
 ## ConcoctionUseText
 Heals 30 HP.[X]
 
-## SkyPiercerName
-Sky Piercer[X]
+## GreatbowName
+Greatbow[X]
 
-## SkyPiercerDesc
+## GreatbowDesc
 [X]
 
-## ParashuName
-Parashu[X]
+## PoleaxeName
+Poleaxe[X]
 
-## ParashuDesc
+## PoleaxeDesc
 [X]
 
-## SteelPoleaxeName
-Stl. Poleaxe[X]
+## GreataxeName
+Greataxe[X]
 
-## SteelPoleaxeDesc
+## GreataxeDesc
 [X]
 
-## BardicheName
-Bardiche[X]
+## LonglanceName
+Longlance[X]
 
-## BardicheDesc
+## LonglanceDesc
 [X]
 
-## PikeName
-Pike[X]
+## GreatlanceName
+Greatlance[X]
 
-## PikeDesc
-[X]
-
-## SteelGreatlanceName
-Stl. Grtlance[X]
-
-## SteelGreatlanceDesc
-[X]
-
-## GlaiveName
-Glaive[X]
-
-## GlaiveDesc
+## GreatlanceDesc
 [X]
 
 ## SleepBowName
 Sleep Bow[X]
 
 ## SleepBowDesc
-Enemy sleep 1 turn on hit.[X]
+Enemy sleep 2 turns on hit.[X]
 
 ## MageSwordName
 Mage Sword[X]
@@ -544,12 +526,6 @@ Adamant Bow[X]
 
 ## AdamantBowDesc
 Uses MAG. Hits RES.[X]
-
-## SootheName
-Soothe[X]
-
-## SootheDesc
-TBD[X]
 
 ## RegenerateName
 Regenerate[X]
@@ -605,23 +581,35 @@ S. Wight[X]
 ## WightStaffDesc
 Summons ally wight.[X]
 
+## AnewName
+Anew[X]
+
+## AnewDesc
+Allows ally to move again.[X]
+
+## HeronName
+Heron[X]
+
+## HeronDesc
+Allows all adjacent allies to move again.[X]
+
 ## AgainName
 Again[X]
 
 ## AgainDesc
-Allows ally to move again.[X]
+Allows all alies to move again.[X]
 
 ## FreezeName
 Freeze[X]
 
 ## FreezeDesc
-TBD[X]
+Unable to move for 1 turn.[X]
 
 ## SlowName
 Slow[X]
 
 ## SlowDesc
-TBD[X]
+-6 SPD for 1 turn.[X]
 
 ## GalvanizedSwordName
 Galvanized Swd.[X]
@@ -647,26 +635,20 @@ Galvanized Bow[X]
 ## GalvanizedBowDesc
 Durable. Cannot crit.[X]
 
-## ClaymoreName
-Claymore[X]
+## LongswordName
+Longsword[X]
 
-## ClaymoreDesc
+## LongswordDesc
 [X]
 
-## ZweihanderName
-Zweihander[X]
+## GreatswordName
+Greatsword[X]
 
-## ZweihanderDesc
+## GreatswordDesc
 [X]
-
-## GiftName
-Gift[X]
-
-## Gift
-Heals MAG+15[X]
 
 ## SwarmName
-[X]
+Swarm[X]
 
 ## SwarmDesc
 Long range magic.[X]
@@ -677,77 +659,23 @@ Aromatherapy[X]
 ## AromatherapyDesc
 Heals Mag+15 and cures bad status.[X]
 
-## SpiritGustName
-S. Gust[X]
-
-## SpiritGustDesc
-Afflicts float. Monk only.[X]
-
-## SpiritArrowName
-S. Arrow[X]
-
-## SpiritArrowDesc
-Pierce DEF/RES. Monk only.[X]
-
-## SpiritGiftName
-S. Gift[X]
-
-## SpiritGiftDesc
-Heals dmg dealt. Monk only.[X]
-
-## PhisName
-Phis[X]
-
-## PhisDesc
-Poisons target. Shaman only.[X]
-
-## PhumicheuxName
-Phumicheux[X]
-
-## PhumicheuxDesc
-Eff vs. magic. Shaman only.[X]
-
-## TawanName
-Tawan[X]
-
-## TawanDesc
-Shaman only.[X]
-
-## PaixaoName
-Paixao[X]
-
-## PaixaoDesc
-Afflicts wet. Shaman only.[X]
-
-## NakhaengName
-Nakhaeng[X]
-
-## NakhaengDesc
-Afflicts sleep. Shaman only.[X]
-
-## XatmaName
-Xatma[X]
-
-## XatmaDesc
-Afflicts feeble. Shaman only.[X]
-
 ## OilName
 Oil[X]
 
 ## OilDesc
-Afflicts greasy for 3 turns.[X]
+Afflicts greasy for 2 turns.[X]
 
 ## SoakName
 Soak[X]
 
 ## SoakDesc
-Afflicts wet for 3 turns.[X]
+Afflicts wet for 2 turns.[X]
 
 ## UpdriftName
 Updrift[X]
 
 ## UpdriftDesc
-Afflicts float for 3 turns.[X]
+Afflicts float for 2 turns.[X]
 
 ## LockpickName
 Lockpick[X]
@@ -760,3 +688,87 @@ Killer Flame[X]
 
 ## KillerFlameDesc
 [X]
+
+## DragonaxeName
+Dragon Axe[X]
+
+## DragonaxeDesc
+Eff vs. [DragonIcon].[X]
+
+## HeavySpearName
+Heavy Spear[X]
+
+## HeavySpearDesc
+Eff vs. [ArmorIcon].[X]
+
+## DragonspearName
+Dragonspear[X]
+
+## DragonspearDesc
+Eff vs. [DragonIcon].[X]
+
+## WarpallName
+Warp All[X]
+
+## WarpallDesc
+Long range warp staff.[X]
+
+## RescueallName
+Rescue All[X]
+
+## RescueallDesc
+Long range rescue staff.[X]
+
+## UnlockName
+Unlock[X]
+
+## UnlockDesc
+Unlocks doors and chests.[X]
+
+## LunaName
+Luna[X]
+
+## LunaDesc
+Negates RES.[X]
+
+## SpiritdrainName
+Spirit Drain[X]
+
+## SpiritdrainDesc
+Absorbs damage dealt as HP to caster.[X]
+
+## SpiritsapName
+Spirit Sap[X]
+
+## SpiritsapDesc
+Absorbs damage dealt as HP to caster.[X]
+
+## PushName
+Push[X]
+
+## PushDesc
+Shoves unit 1 space.[X]
+
+## ZoomingName
+Zooming[X]
+
+## ZoomingDesc
+Unit gets +3 MOV for 2 turns.[X]
+
+## FocusName
+Focus[X]
+
+## FocusDesc
++50 HIT for 1 turn.[X]
+
+## EvadeName
+Evade[X]
+
+## EvadeDesc
++50 AVO for 1 turn.[X]
+
+## PlaceholderName
+Placeholder[X]
+
+## PlaceholderDesc
+Placeholder.[X]
