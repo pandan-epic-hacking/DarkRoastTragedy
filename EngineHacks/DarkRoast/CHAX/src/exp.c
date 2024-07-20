@@ -46,7 +46,7 @@ int GetUnitKillExpBonus(struct Unit* actor, struct Unit* target) {
 		result += 3 * GetLevelDifference(actor, target);
 
 	if (UNIT_CATTRIBUTES(target) & CA_BOSS)
-		result += 20;
+		result += 0;
 
 	return result;
 }
