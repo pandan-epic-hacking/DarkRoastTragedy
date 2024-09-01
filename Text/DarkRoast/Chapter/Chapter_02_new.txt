@@ -1,0 +1,52 @@
+## Chapter_02_Name 
+Ch2. Blessing of the Shrine[X]
+
+## Chapter_02_Objective 
+Seize[X]
+
+## Chapter_02_Goal_Window 
+Seize[X]
+
+## Chapter_02_Opening_1 // sys text to show the Baron will support their march and send men, but to first press on.
+
+## Chapter_02_Opening_2 // Volquez says to go to the shrine of Recaudo. Not just for spiritual protection, but also because it is closer to Narvaez's holdings
+
+## Chapter_02_Opening_3 // Cut to Domingo, Hwan, and Luz. Luz is captured and Domingo runs away. On map scene
+
+## Chapter_02_Opening_4 // Domingo rushes and meets Olmos at the edge of town to explain what's happened. They agree to join w/ Domingo and Hwan to rout the village. Domingo and Hwan give a brief intro
+
+## Chapter_02_Opening_5 // Boss dialogue, putting Luz into the dungeon
+
+## Chapter_02_Post_Prep
+
+[ConversationText]
+[OpenMidLeft][LoadDomingo]
+We cannot let the shrine be destroyed.[AN]
+You may think it silly,[N]
+but the loss of morale would be too great.[AN]
+Please[Beat], we must protect the shrine[N]
+at all costs.[A][X]
+
+## Chapter_02_Village_Mend
+
+## Chapter_02_Village_SteelAxe
+
+## Chapter_02_Boss_Generic
+
+## Chapter_02_Boss_Domingo
+
+## Chapter_02_Boss_Hwan
+
+## Chapter_02_Boss_Olmos
+
+## Chapter_02_Boss_Volquez
+
+## Chapter_02_Boss_Naranja
+
+## Chapter_02_Boss_Zapatera
+
+## Chapter_02_EndEvent_01 // Map event to find Luz
+
+## Chapter_02_EndEvent_02 // Luz intro. She says she's okay. On map.
+
+## Chapter_02_EventEvent_03 // Discussion about there being additional shrines that may be desecrated. Some lore about shamans of Tomelloso. Agree to go cleanse the shrines.
