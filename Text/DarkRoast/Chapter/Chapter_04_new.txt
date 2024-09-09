@@ -1,0 +1,30 @@
+## Chapter_04_Name 
+Ch4. Coastal Caverns[X]
+
+## Chapter_04__Objective 
+Escape[X]
+
+## Chapter_04_Goal_Window 
+Escape[X]
+
+## Chapter_04_Opening_1 // Merla and co. 
+
+## Chapter_04_Opening_2 // Cave intro
+
+## Chapter_04_Opening_3 // Boss intro w/ Marquez
+
+## Chapter_04_Marquez_Picante // Recruit with Picante
+
+## Chapter_04_Marquez_Olmos // Recruit with Olmos
+
+## Chapter_04_Boss_Marquez
+
+## Chapter_04_Boss_Olmos
+
+## Chapter_04_Boss_Volquez
+
+## Chapter_04_Boss_Sosimo
+
+## Chapter_04_Boss_Picante
+
+## Chapter_04_End_Event
